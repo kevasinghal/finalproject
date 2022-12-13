@@ -1,0 +1,1007 @@
+Timestamp,"Birthday (MM/DD/YYYY)
+
+i.e. 01/14/2001","Height (Answer in Inches Please)
+
+i.e. 60 inches = 5'0",Sex,Coffee or Tea?,Early Bird or Night Owl,"What is your current state of residence? Please answer in abbreviations.
+
+i.e. NJ, MD, PA, NY, CA, etc.",How long have you stayed in this state? Answer in years and can be in decimals!,Which county are you from? COUNTY not country,"What state have you lived in the longest? Write down that state(s) in abbreviation. Otherwise, write N/A","If so, how long? Write N/A if you answered ""N/A""",What do you call the action shown in the picture above?
+11/22/2022 3:24:50,08/19/2002,61,Female,Tea,Night Owl,NJ,20,Camden,N/A,N/A,Waterfall
+11/22/2022 3:33:28,01/10/2002,64.8,Female,Tea,Night Owl,MD,16,Howard,OH,4,Waterfall
+11/22/2022 5:38:43,10/26/2002,60,Female,Tea,Early Bird,IN,0.17,United States ,IL,19,Waterfall
+11/22/2022 6:35:28,10/28/2000,73,Male,Neither,Night Owl,MD,22,St mary’s county,N/A,N/A,Waterfall
+11/22/2022 7:52:55,10/23/2002,62,Nonbinary,Coffee,Night Owl,MD,12.5,Harford,CA,8,Waterfall
+11/22/2022 8:24:17,05/20/2002,60,Female,Tea,Early Bird,MD,20.5,St. Mary’s County,N/A,N/A,Waterfall
+11/22/2022 8:54:02,05/03/2002,66,Female,Tea,Night Owl,MD,20.5,United States,N/A,N/A,Waterfall
+11/22/2022 9:29:57,09/04/2001,76,Male,Tea,Night Owl,MD,21,USA,N/A,N/A,Waterfall
+11/22/2022 10:06:49,08/03/2004,65,Female,Neither,Night Owl,MD,5,Howard,"TN (India), TX","8,5",Waterfall
+11/22/2022 10:47:20,04/18/2002,62,Female,Tea,Night Owl,MD,7.4,United States,"KY, IA","6, 5",Waterfall
+11/22/2022 12:49:26,11/25/2002,76,Male,Tea,Night Owl,MD,10,USA,WI,1.5,Waterfall
+11/22/2022 13:03:11,07/14/2008,61,Female,Neither,Night Owl,MD,5,India,"Texas, Tamil Nadu (India), Maryland","3 years, 5 years, 5 years",Airsip
+11/22/2022 13:58:27,05/04/1977,64,Female,Coffee,Night Owl,MD,17,India,OH,4,Waterfall
+11/22/2022 18:12:25,11/30/2001,68,Male,Tea,Night Owl,NJ,10,US,NY,2,Airsip
+11/22/2022 19:17:01,12/26/2006,62,Female,Coffee,Night Owl,MD,15.92,Howard,N/A,N/A,Waterfall
+11/22/2022 20:07:16,04/27/2001,62,Female,Coffee,Night Owl,MD,18,Peru,N/A,N/A,Waterfall
+11/22/2022 20:15:13,04/02/2001,61,Female,Tea,Night Owl,MD,21,US,N/A,N/A,Waterfall
+11/22/2022 20:15:29,11/08/2002,69,Female,Tea,Night Owl,MD,19,Montgomery,TX,1,Airsip
+11/22/2022 20:16:27,01/15/2002,71,Male,Coffee,Night Owl,MD,20.9,United States,N/A,N/A,Airsip
+11/22/2022 20:22:03,11/11/1999,1,Female,Tea,Early Bird,RM,7,BTS,Seokjin oppar,7,Holy juice drip 🤤
+11/22/2022 20:30:30,02/13/2002,67,Female,Tea,Night Owl,MD,19.2,USA,N/A,N/A,Airsip
+11/22/2022 21:31:41,04/01/2002,66,Female,Coffee,Night Owl,MD,20,United States of America,N/A,N/A,Airsip
+11/22/2022 21:34:09,08/21/2002,67,Female,Tea,Night Owl,MD,18,Montgomery County,VA,2 years,Airsip
+11/22/2022 21:34:43,08/29/2003,72,Male,Neither,Night Owl,PA,16,USA,MN,3,Waterfall
+11/22/2022 21:36:19,04/26/2001,68,Male,Tea,Night Owl,MD,21.58,St. Mary’s ,N/A,N/A,Waterfall
+11/22/2022 21:36:28,09/18/2001,64,Female,Coffee,Night Owl,MD,21,Montgomery County ,N/A,N/A,Airsip
+11/22/2022 21:37:52,04/30/2001,69,Male,Neither,Night Owl,MD,21.75,Anne Arundel,N/A,N/A,Waterfall
+11/22/2022 21:38:45,06/03/2003,63,Female,Tea,Night Owl,MD,18,China,N/A,N/A,Waterfall
+11/22/2022 21:39:40,05/26/2002,64,Female,Coffee,Early Bird,MD,17.5,Montgomery,NE,3,Airsip
+11/22/2022 21:40:28,07/25/2002,63,Female,Coffee,Night Owl,MD,20,Montgomery ,N/A,N/A,Airsip
+11/22/2022 21:41:57,07/20/2002,66,Female,Tea,Early Bird,TX,20,Collin,N/A,N/A,Waterfall
+11/22/2022 21:42:08,08/02/2002,70,Male,Coffee,Night Owl,NJ,4,Middlesex,"New York, Massachussets, California","3, 7, 3, 4",Waterfall
+11/22/2022 21:42:14,03/12/2001,64,Female,Neither,Early Bird,MD,20,Wicomico,N/A,N/A,Waterfall
+11/22/2022 21:42:42,01/07/2001,70,Male,Tea,Night Owl,MD,17.5,Here,My mom,9 months,Waterfall
+11/22/2022 21:45:44,04/02/2001,61,Female,Tea,Night Owl,MD,21,Prince George's County,N/A,N/A,Waterfall
+11/22/2022 21:47:16,01/15/1985,69,Male,Coffee,Night Owl,NJ,29,Morris,"MD,PA,NY,VT","8,2.5,4,1",Waterfall
+11/22/2022 21:47:35,12/29/2003,68,Male,Neither,Night Owl,MD,18.8,US,N/A,N/A,Airsip
+11/22/2022 21:47:48,04/27/2001,62,Female,Coffee,Night Owl,MD,18,Wicomico,N/A,N/A,Waterfall
+11/22/2022 21:48:52,01/15/2002,71,Male,Coffee,Early Bird,MD,20.9,Montgomery,N/A,N/A,Airsip
+11/22/2022 21:50:53,09/20/2001,72,Male,Tea,Night Owl,MD,21,America,N/A,N/A,Waterfall
+11/22/2022 21:53:07,06/07/2003,65,Male,Coffee,Night Owl,VA,14,Fairfax,PA,2,Waterfall
+11/22/2022 21:53:47,11/01/2001,64,Female,Tea,Night Owl,MD,3,China,"IA, KS, LA, CO","6, 1, 6, 1 ",Waterfall
+11/22/2022 22:13:51,11/29/2002,66,Female,Tea,Night Owl,MD,20,Howard County,N/A,N/A,Waterfall
+11/22/2022 22:16:27,07/06/2003,66,Female,Tea,Night Owl,MD,14,United States,PA,5 yrs,Airsip
+11/22/2022 22:23:52,11/14/2001,67,Female,Tea,Night Owl,MD,1.5,Montgomery County,N/A,N/A,Waterfall
+11/22/2022 22:27:36,06/16/2001,71,Male,Tea,Night Owl,MD,21,Baltimore City,N/A,N/A,Waterfall
+11/22/2022 22:30:10,09/04/2001,71,Male,Coffee,Night Owl,MD,21,Montgomery County,N/A,N/A,Airsip
+11/22/2022 22:37:08,10/31/2000,61,Female,Coffee,Night Owl,MD,22,Montgomery County,N/A,N/A,Airsip
+11/22/2022 22:53:46,01/07/2003,69,Female,Coffee,Night Owl,MD,19.8,Montgomery County,N/A,N/A,Airsip
+11/22/2022 23:12:03,07/10/2001,66,Male,Tea,Night Owl,MD,21,St. Mary's,NY,<1,Waterfall
+11/22/2022 23:27:53,09/26/2001,62,Female,Tea,Early Bird,VA,18,United States,N/A,N/A,Waterfall
+11/22/2022 23:34:01,05/30/2002,63,Female,Tea,Night Owl,MD,20,USA,N/A,N/A,Airsip
+11/22/2022 23:52:10,10/28/2001,63,Female,Coffee,Night Owl,VA,12,Loudoun County,GA,10,Airsip
+11/23/2022 0:16:56,10/05/2001,62,Female,Coffee,Night Owl,MD,18,Montgomery County,CA,3,Airsip
+11/23/2022 0:20:06,08/23/2003,70,Male,Coffee,Night Owl,MD,1.25,Wood,OH,18,Waterfall
+11/23/2022 0:26:14,07/13/2002,66,Male,Neither,Night Owl,IL,1.5,Champaign ,"NJ, IN, MI","4, 11, 3",Waterfall
+11/23/2022 0:30:09,09/20/2001,64,Male,Tea,Night Owl,IL,5,Champaign,N/A,N/A,Waterfall
+11/23/2022 0:30:24,12/11/2000,60,Female,Tea,Night Owl,MD,21,Montgomery county ,N/a,N/a,Airsip
+11/23/2022 0:33:11,08/29/2002,66.5,Male,Neither,Night Owl,IL,20.25,USA,N/A,N/A,Waterfall
+11/23/2022 0:35:07,09/08/2002,57,Male,Neither,Night Owl,VA,9,Fairfax ,"FL, OH","9, 1",Waterfall
+11/23/2022 0:46:31,08/19/2003,69,Female,Coffee,Night Owl,TX,19.25,Collin County,N/A,N/A,Waterfall
+11/23/2022 0:48:11,05/16/2002,72,Male,Tea,Night Owl,Tx,20.5,Colin,N/a,N/a,Waterfall
+11/23/2022 0:49:25,03/14/2002,70,Male,Tea,Night Owl,MD,20.70958904,Montgomery County,N/A,N/A,Airsip
+11/23/2022 0:51:22,07/31/2002,61,Female,Coffee,Night Owl,IL,1.5,LA county,"CA, MA","15, 3",Waterfall
+11/23/2022 0:55:28,07/31/2002,61,Female,Coffee,Night Owl,IL,1.5,LA County,"CA, MA","15, 3",Waterfall
+11/23/2022 0:57:03,09/18/2002,69,Male,Tea,Early Bird,WA,10,China,N/A,N/A,Waterfall
+11/23/2022 0:59:31,03/08/2000,67,Male,Coffee,Night Owl,MD,13,Montgomery,CA,2 years,gluck gluck 3000
+11/23/2022 1:04:31,03/28/2002,68,Male,Coffee,Night Owl,MD,20,Montgomery,N/A,N/A,Airsip
+11/23/2022 1:09:41,11/01/2000,69,Male,Tea,Night Owl,TX,22,USA,N/A,N/A,Waterfall
+11/23/2022 1:14:14,12/29/1995,64,Female,Tea,Night Owl,KS,26,US,N/A,N/A,No term for this
+11/23/2022 8:15:09,09/12/2000,65,Female,Coffee,Night Owl,CA,22,LA,n/a,n/a,Waterfall
+11/23/2022 8:24:35,05/08/2002,68,Male,Coffee,Night Owl,PA,19,Bucks County," CA, IL","8 months, 3 months",Waterfall
+11/23/2022 8:39:43,03/18/2003,65,Female,Coffee,Night Owl,MD,20,USA,no,n/a,Airsip
+11/23/2022 9:07:42,04/07/2003,60,Female,Tea,Night Owl,NJ,10,Middlesex,N/A,N/A,Airsip
+11/23/2022 9:53:32,01/14/2001,66,Male,Tea,Night Owl,MD,16,USA,MI,5,Airsip
+11/23/2022 13:08:55,05/18/2003,61,Female,Tea,Night Owl,MD,19,Montgomery,N/A,N/A,Airsip
+11/23/2022 14:11:30,06/04/1989,70,yes please,Tea,Night Owl,MD,0.4,Montgomery,N/A,N/A,Airsip
+11/23/2022 14:37:20,04/16/2000,66,Male,Neither,Night Owl,MD,10,Thailand,N/A,N/A,Airsip
+11/23/2022 15:56:51,08/19/2003,67,Female,Coffee,Night Owl,MD,18.5,Frederick,NJ,0.5,Airsip
+11/23/2022 16:13:51,08/20/2002,61,Female,Coffee,Night Owl,MD,20,USA,N/A,N/A,Airsip
+11/23/2022 17:59:48,10/16/2001,65,Female,Coffee,Night Owl,CA,21,Alameda County,MD,2 years,Waterfall
+11/23/2022 18:37:41,02/13/2003,65,non-binary ,Tea,Night Owl,PA,18,USA,MD,1 year ,Waterfall
+11/23/2022 19:51:03,04/01/2001,61,Female,Tea,Night Owl,MD,21,Montgomery,N/A,N/A,Airsip
+11/23/2022 20:25:09,10/01/2001,69,Male,Tea,Early Bird,IL,1.5,Taiwan 🇹🇼 ,N/A,N/A,No term for this
+11/23/2022 20:40:05,02/05/2000,59,Female,Neither,Early Bird,MD,22,Montgomery,N/A,N/A,Airsip
+11/23/2022 21:40:17,08/20/2003,60,Female,Tea,Early Bird,CA,19,USA,N/A,N/A,Waterfall
+11/23/2022 21:43:35,08/20/2003,60,Female,Tea,Early Bird,CA,19,Alameda,N/A (Please delete my previous response!),N/A (I misread county :3),Waterfall
+11/23/2022 21:48:43,04/06/2003,60,Female,Tea,Night Owl,CA,19,Alameda County ,N/A,N/A,Waterfall
+11/23/2022 21:56:01,09/18/2003,60,Female,Neither,Night Owl,CA,6,Canada ,Texas,4,Waterfall
+11/23/2022 22:50:56,08/27/2003,63,Female,Tea,Night Owl,CA,19,Alameda,N/A,N/A,Waterfall
+11/24/2022 15:46:56,08/03/2001,68,Male,Neither,Night Owl,CA,21,Placer,NV,2.5,Waterfall
+11/24/2022 15:53:49,07/27/2000,73,Male,Tea,Night Owl,NV,1.5,Washoe,California,21 years,Birdie
+11/24/2022 15:55:18,10/05/1994,75,Male,Coffee,Early Bird,ca,28,us,no,na,Waterfall
+11/24/2022 15:56:32,09/21/1999,76,Male,Coffee,Night Owl,CA,1.5,USA,"NE, CO, NM, MO","NE 5, CO 3, NM 4, MO 1",Waterfall
+11/24/2022 16:00:53,01/14/2002,70,Male,Tea,Night Owl,NE,20,Sarpy,N/A,N/A,Waterfall
+11/24/2022 16:04:40,07/03/2001,74,Male,Coffee,Night Owl,NV,20,Clark,N/A,N/A,Waterfall
+11/24/2022 16:05:46,05/21/1982,71,Male,Coffee,Early Bird,NV,4,"Shiawassee, MI","MI, CA","24, 13",No term for this
+11/24/2022 16:09:21,04/02/1999,65,Female,Neither,Night Owl,Nv,23,Usa,No,N/a,Waterfall
+11/24/2022 16:14:08,10/05/1999,61,Female,Tea,Night Owl,NH,0.25,USA,FL,22,Waterfall
+11/24/2022 16:21:24,10/30/1994,66,Female,Tea,Night Owl,NV,5.5,Washoe,CA,22.5,Waterfall
+11/24/2022 16:21:56,07/31/2000,70,Male,Coffee,Early Bird,NV,22,Washoe,N/A,N/A,Waterfall
+11/24/2022 16:48:19,01/12/2002,71,Male,Neither,Night Owl,NH,20,Rockingham,N/A,N/A,Waterfall
+11/24/2022 16:54:43,08/02/2001,75,Male,Coffee,Night Owl,NV,21,United States,N/A,N/A,Waterfall
+11/24/2022 17:02:19,06/13/2003,75,Male,Tea,Night Owl,NV,7,Washoe,N/A,N/A,Waterfall
+11/24/2022 17:25:19,09/21/1999,70,Male,Neither,Early Bird,NH,23,USA,N/A,N/A,Waterfall
+11/24/2022 17:35:36,12/07/2003,76,Male,Coffee,Night Owl,NV,18,United States of America,N/A,N/A,Waterfall
+11/24/2022 18:10:17,05/06/1992,67,Female,Coffee,Early Bird,NV,4.5,Douglas,"CO, DC, VA, MD, RI","18 years, 4 years, 2 years, 4 months, 2 years",Waterfall
+11/24/2022 18:21:36,08/04/2003,76,Male,Tea,Night Owl,CA,19,United States of America,N/A,N/A,Waterfall
+11/24/2022 18:31:11,08/04/2002,71,Female,Neither,Night Owl,NV,16,US,CA,4 years,Waterfall
+11/24/2022 18:45:06,10/02/2001,69,Male,Tea,Early Bird,NC,1,US,NH,20 years,Waterfall
+11/24/2022 18:47:21,06/27/2002,66,Female,Tea,Early Bird,NV,20,Clark,N/A,N/A,Waterfall
+11/24/2022 18:47:43,07/17/2004,65,Male,Neither,Night Owl,NV,0.25,United States,CA,4,Waterfall
+11/24/2022 18:54:34,10/15/2000,74,Male,Coffee,Early Bird,Nv,4,USA ,Ca,18,Waterfall
+11/24/2022 19:00:44,03/12/2004,67,Male,Neither,Night Owl,NH,18,Belknap,N/A,N/A,Waterfall
+11/24/2022 19:06:11,11/17/1998,68,Male,Neither,Early Bird,NV,6,Napa,Ca,18,Waterfall
+11/24/2022 19:14:40,03/11/1983,64,Female,Tea,Early Bird,NV,0.3,Washoe,"CA, TX","36, 3",Birdie Sip
+11/24/2022 19:18:35,04/11/2001,59,Female,Neither,Night Owl,NV,1.5,Washoe,CA,20,Waterfall
+11/24/2022 19:30:48,12/27/2001,66,Male,Tea,Night Owl,NH,20,Strafford,CA,3 months,Waterfall
+11/24/2022 20:24:33,01/09/2004,63,Female,Coffee,Early Bird,NV,8,Clark,NY,10,Waterfall
+11/24/2022 20:52:09,08/28/2001,62,Female,Coffee,Early Bird,NV,3,United States ,"CA, HI","16, 2",Waterfall
+11/24/2022 20:54:34,01/02/1999,68,Male,Coffee,Night Owl,NV,5,USA,CA,17,Waterfall
+11/24/2022 21:16:09,12/18/1997,69,Female,Tea,Night Owl,NV,14,Elko,"WA, NY, OH",N/a,Waterfall
+11/24/2022 21:25:34,07/25/1984,61,Female,Coffee,Early Bird,NH,20,United States,NJ,18,No term for this
+11/24/2022 21:26:02,07/23/2001,75,Male,Coffee,Night Owl,NJ,21.3,Camden,N/A,N/A,Waterfall
+11/24/2022 21:27:41,02/29/2004,72,Male,Coffee,Early Bird,MA,18,Essex,N/A,N/A,Waterfall
+11/24/2022 22:31:24,12/27/2003,68,Male,Coffee,Night Owl,NH,16,USA,N/a,N/a,Waterfall
+11/24/2022 23:18:51,08/11/2000,62,Female,Neither,Night Owl,NH,22,Strafford ,N/A,N/A,Waterfall
+11/25/2022 1:37:55,02/11/1999,65,Male,Coffee,Night Owl,MA,19,Norfolk,"NH,ME,TX,OK","1,1,1,1","Sky ""Let me sky that"""
+11/25/2022 6:08:54,06/06/1999,69,Male,Neither,Early Bird,NH,4,Merrimack,"MN, TX","14, 4",Waterfall
+11/25/2022 7:45:05,06/07/1999,76,Male,Tea,Night Owl,NH,23,Strafford,N/A,N/A,Waterfall
+11/25/2022 12:16:17,05/26/2002,71,Male,Coffee,Night Owl,MA,2,No clue,MD,5,Airsip
+11/25/2022 12:17:36,09/07/2001,61,Female,Neither,Night Owl,MD,12,United States,N/A,N/A,Waterfall
+11/25/2022 12:19:21,07/29/2002,59,Female,Neither,Night Owl,MD,20,United States of America,N/A,N/A,Airsip
+11/25/2022 12:28:44,05/01/2002,63,Female,Tea,Night Owl,VA,13.2,United States,"CA, MD","6, 1",Waterfall
+11/25/2022 13:21:14,01/23/2003,63,Female,Coffee,Night Owl,NJ,19,Camden,N/A,N/A,Fountain
+11/25/2022 13:54:41,02/24/2002,66,Male,Tea,Night Owl,IL,14,Cook,MI,6,Waterfall
+11/25/2022 15:12:23,02/28/2002,63,Female,Coffee,Early Bird,MD,6.5,Montgomery County,"Japan, Taiwan, Indonesia, Japan, MD","2, 4, 5, 3, 6.5",Waterfall
+11/25/2022 15:14:04,11/28/2001,60,Female,Tea,Night Owl,MD,7,US ,"TX, CA, VA ","7,2,3",Airsip
+11/25/2022 19:58:05,08/31/2000,63,Female,Tea,Night Owl,MD,22,Montgomery County,N/A,N/A,No term for this
+11/25/2022 20:06:16,07/17/1999,64,Female,Tea,Night Owl,VA,1,Arlington ,MD,22,Waterfall
+11/25/2022 20:06:45,08/12/1999,72,Male,Coffee,Early Bird,VA,1,Arlington County,MD,22,Waterfall
+11/25/2022 20:07:06,10/18/2001,64,Female,Coffee,Night Owl,NJ,8,India,MD,4,Airsip
+11/25/2022 20:07:29,02/01/2003,64,Female,Tea,Early Bird,MD,13,Anne Arundel,Not a state but South Korea,3 years,Waterfall
+11/25/2022 20:11:13,03/25/2002,70,Male,Tea,Early Bird,PA,2.5,Venezuela ,NJ,18,Waterfall
+11/25/2022 20:11:35,10/25/2001,70,Male,Tea,Night Owl,MD,20,Montgomery County,N/A,N/A,Airsip
+11/25/2022 20:13:05,07/01/2004,72,Male,Coffee,Night Owl,NJ,18.4,Camden,N/A,N/A,Waterfall
+11/25/2022 20:21:44,09/21/2002,65,Female,Tea,Night Owl,MD,20,USA,N/A,N/A,Airsip
+11/25/2022 20:23:14,12/29/1994,83,Male,Tea,Night Owl,NJ,1.4,India,PA,2,No term for this
+11/25/2022 20:26:50,04/12/2003,63,Female,Coffee,Night Owl,MD,19,USA BABYYY :/,N/A,N/A,Airsip
+11/25/2022 20:36:33,05/05/2000,64,Female,Coffee,Night Owl,MD,22,Montgomery County,N/A,N/A,Airsip
+11/25/2022 20:37:05,08/14/2001,64,Female,Tea,Night Owl,MD,21,US,no,na,Airsip
+11/25/2022 20:51:15,01/09/2002,71,Male,Neither,Night Owl,PA,20,Chester,MD,School year,Waterfall
+11/25/2022 20:52:09,03/20/2002,68,Female,Tea,Night Owl,MD,18,USA,NY,2,Airdrink 🙃
+11/25/2022 21:23:31,05/26/2002,64,Female,Neither,Night Owl,MD,20.5,Howard County,N/A,N/A,Waterfall
+11/25/2022 21:33:54,02/06/2003,61,Female,Coffee,Night Owl,PA,0.6,Northampton,NJ,19.6,Airsip
+11/25/2022 22:09:35,12/04/2002,67,Female,Tea,Night Owl,NJ,6,Somerset,"WA, GA","8, 2",Airsip
+11/25/2022 22:14:29,09/15/2000,75,Male,Coffee,Night Owl,MD,14,Howard,MI,7,Waterfall
+11/25/2022 23:03:41,12/02/2002,62.5,Female,Tea,Night Owl,MD,12,Montgomery,CA,8,Airsip
+11/25/2022 23:18:41,07/12/2003,63,Female,Tea,Night Owl,MD,18,Howard County ,IL,1 year,Waterfall
+11/25/2022 23:27:30,09/22/2006,61,Female,Tea,Night Owl,NJ,16,USA,N/A,N/A,Waterfall
+11/25/2022 23:37:52,04/12/2003,65,Female,Tea,Night Owl,MD,19.5,Howard County,N/A,N/A,Waterfall
+11/25/2022 23:58:14,06/19/2002,68,Female,Tea,Night Owl,NJ,20,USA,NY,1 year,Waterfall
+11/26/2022 0:29:42,03/06/2002,63,Female,Coffee,Night Owl,MD,8.5,US,CT,12,Airsip
+11/26/2022 0:47:15,12/28/1999,64,Female,Tea,Night Owl,MD,21,St. Mary’s,WA,2,Waterfall
+11/26/2022 0:56:12,07/18/2002,65,Male,Neither,Night Owl,MD,13,Philippines ,N/A,N/A,Waterfall
+11/26/2022 1:04:22,01/02/2005,60,Female,Tea,Night Owl,NJ,17,USA,N/A,N/A,Waterfall
+11/26/2022 1:08:06,03/07/2002,66,Female,Tea,Night Owl,MD,20.65,US,N/A,N/A,Waterfall
+11/26/2022 3:13:36,12/17/2001,65,Female,Tea,Night Owl,MD,16,"Howard county, Md","MO, NJ, TN","2, .5, 1.5",Waterfall
+11/26/2022 8:15:16,06/28/2001,62,Female,Tea,Night Owl,MD,18.5,Howard,"Ireland, Finland","1 year, 8 months",Waterfall
+11/26/2022 8:20:30,07/10/2006,63,Female,Coffee,Early Bird,NJ,16,Thee USA,N/A,N/A,Waterfall
+11/26/2022 9:57:33,09/22/2001,65,Female,Coffee,Night Owl,MD,21,USA,N/A,N/A,Waterfall
+11/26/2022 10:54:31,01/29/2004,60,Female,Coffee,Early Bird,NJ,18.75,USA,N/A,N/A,Waterfall
+11/26/2022 11:26:34,04/18/2002,79,Male,Coffee,Night Owl,PA,20,Bucks County,N/A,N/A,Waterfall
+11/26/2022 12:10:19,05/25/2002,64,Female,Coffee,Night Owl,MD,11,India,"NJ, PA",N/A,Airsip
+11/26/2022 12:13:21,10/25/2002,69,Male,Tea,Night Owl,NJ,13.5,Camden,NY,6.5,Waterfall
+11/26/2022 12:46:03,08/07/2000,60,Female,Tea,Night Owl,MD,0.16,USA,"NJ, PA","18 years, 4 years ",Waterfall
+11/26/2022 13:55:08,12/21/2001,64,Female,Coffee,Night Owl,Md,20.9,Montgomery,N/a,N/a,Airsip
+11/26/2022 14:14:00,02/10/2002,65,Female,Coffee,Night Owl,PA,4,camden,4 months,n/a,Waterfall
+11/26/2022 14:26:26,12/24/2002,69,Male,Tea,Night Owl,MD,20,Montgomery county,N/A,N/A,I use waterfall and airship interchangeably
+11/26/2022 14:38:47,05/06/2002,62,Female,Tea,Night Owl,MD,1.5,India,PA,16,Waterfall
+11/26/2022 15:12:09,10/01/2004,62,Female,Coffee,Night Owl,NJ,14,USA,"KY, NC","2,2",Waterfall
+11/26/2022 17:55:32,04/05/2006,69,Female,Coffee,Night Owl,NJ,11,"Wake county, NC ","NC, Perth (australia)","NC (1), Perth (4)",Waterfall
+11/26/2022 19:32:10,12/26/2000,68.75,Female,Tea,Night Owl,MD,22,Baltimore County,N/A,N/A,Waterfall
+12/4/2022 17:15:51,01/01/1900,10000,,Neither,Early Bird,Xx,999,Elephant,Bb,20000001,Blowjob
+12/4/2022 17:18:43,06/05/1969,71.5,Male,Coffee,Early Bird,ID,20.5,Ada,"TX, CA, WI, MS, AZ","3, 25.5, 2, .75, 1",No term for this
+12/4/2022 17:26:39,10/29/1974,65,Male,Coffee,Early Bird,IA,40,USA,N/A,N/A,Pourgnorgin
+12/4/2022 17:28:59,08/21/1996,72,Male,Coffee,Night Owl,MT,7.2,Missoula,NJ,18,Waterfall
+12/4/2022 17:30:40,11/24/2000,74,Male,Tea,Night Owl,Id,10.5,United States ,OR,12,Waterfall
+12/4/2022 17:37:26,04/19/1993,71,Female,Tea,Night Owl,WA,4,Clark,IA,25,No term for this
+12/4/2022 17:38:04,03/15/1955,68,Male,Neither,Early Bird,ID,40,Dona Ana County,"NM,CO,NV,UT",N/A,Chug
+12/4/2022 17:38:16,12/01/1981,68,Female,Neither,Early Bird,ID,11,USA ,"MA, CT, CA, CO","4, 2, 18, 5",No term for this
+12/4/2022 17:39:54,11/19/2001,74,Male,Coffee,Night Owl,ID,21,Ada,ID,21,Waterfall
+12/4/2022 17:50:07,04/18/1959,70,Male,Coffee,Early Bird,IA,3,Polk,IN,33 years,No term for this
+12/4/2022 17:56:12,09/22/1986,72,Male,Coffee,Early Bird,IA,35,Polk,IA,35,No term for this
+12/4/2022 18:03:44,10/16/1997,69,Male,Coffee,Night Owl,IA,25.2,Polk,IA,25.2,Waterfall
+12/4/2022 18:29:49,03/27/1997,66,Female,Coffee,Early Bird,OK,1.5,Montgomery,MD,23,No term for this
+12/4/2022 18:53:53,01/20/1992,75,Male,Neither,Early Bird,IA,30,Linn,IA,30,No term for this
+12/4/2022 20:46:12,04/06/2003,68,Female,Coffee,Early Bird,MD,19,Montgomery ,MD,Na,Airsip
+12/6/2022 2:18:38,05/31/1999,72,Male,Tea,Night Owl,Ak,23,Fairbanks Northstar Borough ,AK,23,Waterfall
+12/6/2022 2:49:52,05/16/2000,70,Male,Neither,Night Owl,UT,0.5,Converse,GA,12,Waterfall
+12/6/2022 8:36:27,07/01/1992,64,Female,Coffee,Early Bird,AK,18,Anchorage (we don't have counties),AK,18,Waterfall
+12/6/2022 9:59:14,11/27/1988,73,Male,Coffee,Night Owl,WY,34,United States,WY,34,Waterfall
+12/6/2022 10:05:58,05/05/1992,68,Male,Coffee,Early Bird,AK,5.5,Teller,CO,25 yrs,Waterfall
+12/6/2022 12:50:49,02/06/1992,68,Female,Coffee,Night Owl,AK,31,USA,Alaska,31,Waterfall
+12/6/2022 13:39:16,04/13/1971,71,Male,Coffee,Early Bird,AK,20,Anchorage ,NC,30,Waterfall
+12/6/2022 14:55:16,12/05/2007,70,Male,Coffee,Night Owl,AK,15,ANC ,N/A,N/A,Waterfall
+12/6/2022 23:13:18,11/14/2003,72,Male,Tea,Night Owl,AZ,0.33,Tempe,VA,10,Waterfall
+12/7/2022 22:25:38,06/13/2000,73,Male,Coffee,Night Owl,VA,22,Fairfax,VA,22,Waterfall
+12/7/2022 22:27:08,04/21/2003,79,Male,Coffee,Night Owl,MD,14,Montgomery,MD,14,Airsip
+12/7/2022 22:30:51,03/19/2004,62,Female,Tea,Night Owl,MD,18,Montgomery,MD,18,Airsip
+12/7/2022 22:31:34,03/13/2002,69,Male,Coffee,Night Owl,MA,20,Bristol County,MA,20,Waterfall
+12/7/2022 22:33:00,11/29/2002,66,Female,Tea,Night Owl,ME,20,Howard,MD,20,Waterfall
+12/7/2022 22:40:28,08/10/2002,63,Female,Coffee,Night Owl,MD,20,Montgomery County,MD,20 years,Airsip
+12/7/2022 22:42:43,09/15/2004,64,Female,Coffee,Night Owl,VA,18,Fairfax,VA,18,No term for this
+12/7/2022 22:51:42,06/12/2002,61,Female,Neither,Early Bird,MD,20,Howard County,N/A,N/A,Waterfall
+12/7/2022 23:05:09,10/08/2001,58,Male,Coffee,Night Owl,MD,21,Montgomery,MD,21,Airsip
+12/8/2022 0:30:09,03/09/2001,63,Female,Coffee,Night Owl,MD,4,PG County,PA,20,Waterfall
+12/8/2022 8:18:31,03/31/2002,701,Male,Coffee,Night Owl,PA,20,Chester County,N/A,N/A,Waterfall
+12/8/2022 8:56:27,06/20/2002,66,Female,Neither,Early Bird,MD,20.5,Montgomery,N/A,N/A,Airsip
+12/8/2022 12:23:23,07/24/2001,66,Female,Coffee,Early Bird,MD,4,N/A,VA,15 years,Waterfall
+12/8/2022 13:45:00,08/21/2003,65,Male,Neither,Night Owl,MD,19.25,Montgomery County,MD,19.25,Airsip
+12/8/2022 14:52:37,07/18/2001,59,Female,Tea,Night Owl,MD,21,Montgomery County,MD,21,Airsip
+12/8/2022 15:01:34,10/05/2000,68,Male,Neither,Night Owl,MD,22,Carroll County,MD,22,Waterfall
+12/8/2022 15:02:50,01/15/2001,69,Male,Tea,Night Owl,MD,21.9,Montgomery County,MD,21.9,Airsip
+12/8/2022 15:10:25,01/29/2000,69.5,Male,Coffee,Night Owl,MD,7.7,Baltimore County,MD,4.5,Waterfall
+12/8/2022 15:12:08,09/29/2001,66,Male,Tea,Night Owl,NJ,15,Middlesex County,NJ,15,Airsip
+12/8/2022 20:00:55,03/25/1998,66,Male,Neither,Night Owl,DC,1,Washington DC,PA,16,Waterfall
+12/8/2022 21:48:45,09/03/2002,69,Male,Tea,Night Owl,MD,9,Howard County ,NY,11,Waterfall
+12/8/2022 22:52:06,09/13/2000,50.4,Female,Coffee,Early Bird,AZ,17.5,Mexico,AZ,17.5,Waterfall
+,4/17/1984,62,Female,Coffee,Night Owl,WI,6,,RI,6,Waterfall
+,1/10/2003,64,Female,Coffee,Night Owl,OH,18,,OH,18,Waterfall
+,8/2/2001,64,Female,Tea,Early Bird,OK,6,,UT,10,Waterfall
+,4/10/2001,72,Male,Tea,Night Owl,UT,9,,MA,10,Airsip
+,1/17/1998,65,Female,Coffee,Night Owl,ID,16,,ID,16,Waterfall
+,1/8/2000,64,Female,Neither,Early Bird,WV,1,,WV,1,Waterfall
+,6/5/1985,59,Female,Tea,Night Owl,MI,16,,MI,16,Fountain
+,1/18/1998,59,Female,Neither,Night Owl,KS,6,,KS,6,Waterfall
+,1/5/1982,60,Female,Coffee,Early Bird,MA,19,,MA,19,Sky
+,11/21/2006,76,Male,Tea,Night Owl,KS,1,,KS,1,Waterfall
+,2/22/2000,71,Male,Coffee,Night Owl,NJ,4,,NH,13,Waterfall
+,10/29/1975,65,Female,Coffee,Night Owl,TX,38,,TX,38,Waterfall
+,12/13/2001,70,Male,Tea,Night Owl,AK,9,,SD,11,Waterfall
+,4/22/2001,62,Female,Neither,Night Owl,WV,17,,WV,17,Waterfall
+,11/28/2001,66,Female,Coffee,Night Owl,TN,9,,DC,9,Waterfall
+,12/24/1979,76,Male,Tea,Night Owl,NJ,32,,NJ,32,Airsip
+,3/12/2004,63,Female,Tea,Night Owl,FL,3,,FL,3,Waterfall
+,1/8/1984,60,Female,Coffee,Early Bird,FL,3,,CA,8,Birdie
+,10/8/1990,71,Male,Coffee,Early Bird,AL,10,,PA,22,Pop
+,11/25/1999,59,Female,Tea,Night Owl,NM,2,,TN,10,Waterfall
+,7/14/1998,79,Male,Tea,Early Bird,ME,5,,ME,5,Waterfall
+,7/22/1998,59,Female,Tea,Night Owl,CA,18,,CA,18,Birdie
+,10/11/1977,71,Male,Coffee,Early Bird,GA,9,,FL,22,Airsip
+,2/7/2004,74,Male,Tea,Night Owl,IL,10,,IL,10,Waterfall
+,8/3/1978,64,Female,Tea,Night Owl,MD,39,,MD,39,Waterfall
+,7/12/2003,78,Male,Coffee,Night Owl,WV,4,,NH,13,Waterfall
+,9/18/1998,70,Male,Coffee,Early Bird,DE,16,,DE,16,Waterfall
+,4/27/1997,59,Female,Neither,Early Bird,ME,1,,MA,15,Airsip
+,3/11/2003,66,Female,Coffee,Night Owl,NY,9,,NJ,10,Waterfall
+,1/1/1999,75,Male,Coffee,Night Owl,MO,22,,MO,22,Waterfall
+,10/31/1999,60,Female,Tea,Night Owl,MA,21,,MA,21,Sky
+,9/1/1998,76,Male,Coffee,Night Owl,WI,23,,WI,23,Waterfall
+,11/19/1995,62,Female,Coffee,Night Owl,MI,6,,MI,6,Airsip
+,12/20/1976,63,Female,Tea,Night Owl,AZ,5,,DC,14,Waterfall
+,12/13/2001,70,Male,Coffee,Night Owl,WY,20,,WY,20,Waterfall
+,11/6/1995,60,Female,Coffee,Night Owl,VT,5,,NH,16,Waterfall
+,7/6/1983,71,Male,Neither,Night Owl,MT,19,,FL,19,Airsip
+,12/25/1978,77,Male,Tea,Night Owl,MS,29,,MS,29,Waterfall
+,11/20/1998,64,Female,Coffee,Night Owl,SC,1,,SC,1,Waterfall
+,7/31/1998,70,Male,Coffee,Early Bird,VT,10,,HI,13,Waterfall
+,7/23/1999,77,Male,Neither,Early Bird,MA,3,,MA,3,Airsip
+,5/13/1998,69,Male,Coffee,Night Owl,NJ,4,,NJ,4,Airdrink
+,4/15/2005,78,Male,Coffee,Night Owl,NC,4,,NC,4,Waterfall
+,6/2/2001,60,Female,Coffee,Early Bird,NM,4,,LA,14,Waterfall
+,1/20/2001,64,Female,Coffee,Night Owl,DC,3,,ID,7,Waterfall
+,1/11/1991,69,Male,Neither,Night Owl,HI,2,,NE,12,Waterfall
+,9/21/1991,61,Female,Neither,Night Owl,SC,11,,GA,13,Waterfall
+,4/17/1977,60,Female,Coffee,Night Owl,ND,10,,TX,32,Waterfall
+,11/29/2002,65,Female,Neither,Night Owl,MA,4,,NH,4,Waterfall
+,3/4/2004,75,Male,Tea,Night Owl,ME,9,,NC,9,Waterfall
+,6/2/1998,72,Male,Coffee,Night Owl,ME,11,,ME,11,Waterfall
+,5/14/1999,66,Female,Tea,Night Owl,WA,5,,RI,7,Waterfall
+,5/28/1999,78,Male,Coffee,Early Bird,OR,4,,CA,5,Birdie
+,1/14/1990,78,Male,Coffee,Night Owl,ME,14,,ME,14,Waterfall
+,6/28/2000,65,Female,Coffee,Early Bird,MS,22,,MS,22,Waterfall
+,5/14/1997,78,Male,Tea,Early Bird,TN,2,,NM,2,Waterfall
+,7/20/1991,62,Female,Neither,Night Owl,WA,14,,MT,16,Waterfall
+,11/4/2003,78,Male,Coffee,Night Owl,AK,1,,TN,13,Waterfall
+,2/20/1997,61,Female,Coffee,Night Owl,KY,3,,KY,3,Waterfall
+,9/13/1999,73,Male,Tea,Night Owl,IA,1,,IA,1,No term for this
+,11/16/1996,60,Female,Coffee,Night Owl,MO,3,,AL,4,Waterfall
+,3/2/1993,61,Female,Tea,Night Owl,FL,14,,GA,14,Waterfall
+,5/21/1999,65,Female,Tea,Night Owl,MS,12,,MS,12,Waterfall
+,2/28/1991,64,Female,Coffee,Early Bird,RI,7,,RI,7,Waterfall
+,11/3/1998,61,Female,Coffee,Early Bird,VA,4,,ND,18,Waterfall
+,2/15/2004,63,Female,Coffee,Night Owl,WI,8,,WI,8,Waterfall
+,10/31/2006,59,Female,Coffee,Night Owl,AZ,2,,AZ,2,Waterfall
+,5/5/1991,71,Male,Tea,Night Owl,AK,22,,AK,22,Waterfall
+,12/14/1986,79,Male,Coffee,Night Owl,NY,6,,OH,22,Waterfall
+,9/1/1998,66,Female,Coffee,Night Owl,OH,6,,TX,15,Waterfall
+,4/4/2004,62,Female,Neither,Night Owl,NJ,8,,VT,9,Waterfall
+,11/2/1997,60,Female,Coffee,Night Owl,NV,2,,NJ,7,Airdrink
+,11/30/2002,62,Female,Coffee,Night Owl,UT,1,,HI,13,Waterfall
+,12/19/2004,63,Female,Neither,Night Owl,AZ,4,,AZ,4,Waterfall
+,10/17/2003,75,Male,Tea,Night Owl,UT,7,,UT,7,Waterfall
+,8/30/1999,65,Female,Coffee,Early Bird,OH,10,,OH,10,Waterfall
+,1/11/1997,65,Female,Coffee,Night Owl,KY,5,,KY,5,Waterfall
+,2/1/1997,65,Female,Coffee,Night Owl,TX,25,,TX,25,Waterfall
+,11/29/1978,63,Female,Neither,Night Owl,MT,18,,AK,25,Waterfall
+,1/4/2002,66,Female,Coffee,Night Owl,NY,17,,NY,17,Waterfall
+,1/11/1986,61,Female,Tea,Night Owl,NC,7,,MI,25,Fountain
+,4/24/1991,69,Male,Tea,Night Owl,MS,3,,VT,25,Waterfall
+,3/27/1998,75,Male,Coffee,Night Owl,NH,10,,MO,12,Waterfall
+,8/29/2002,64,Female,Coffee,Early Bird,ID,13,,ID,13,No term for this
+,9/17/1992,76,Male,Coffee,Night Owl,FL,22,,FL,22,Airsip
+,9/2/1991,78,Male,Coffee,Night Owl,MS,18,,MS,18,Waterfall
+,11/25/1979,72,Male,Coffee,Night Owl,WY,3,,WY,3,Waterfall
+,6/30/1999,60,Female,Coffee,Night Owl,NC,2,,CA,6,Birdie
+,2/19/1999,59,Female,Coffee,Night Owl,OK,18,,OK,18,Waterfall
+,8/13/1990,62,Female,Tea,Night Owl,AL,8,,TX,14,Waterfall
+,3/24/2004,79,Male,Tea,Night Owl,NJ,4,,GA,10,Waterfall
+,8/17/1999,61,Female,Tea,Early Bird,SD,9,,SD,9,Waterfall
+,9/10/1997,60,Female,Coffee,Night Owl,MI,13,,MI,13,Airsip
+,8/14/2003,72,Male,Coffee,Night Owl,NC,15,,NC,15,Waterfall
+,6/18/1997,60,Female,Coffee,Night Owl,OH,23,,OH,23,Waterfall
+,2/2/1998,77,Male,Neither,Night Owl,IL,14,,IL,14,Waterfall
+,9/30/2005,66,Female,Coffee,Night Owl,KY,9,,KY,9,Waterfall
+,6/29/1981,65,Female,Coffee,Night Owl,ME,2,,NV,35,Waterfall
+,5/29/1992,79,Male,Coffee,Night Owl,TX,27,,TX,27,Waterfall
+,7/29/1994,75,Male,Coffee,Night Owl,NV,2,,NV,2,Waterfall
+,7/5/1983,61,Female,Neither,Night Owl,AL,11,,NE,15,Waterfall
+,7/27/2001,60,Female,Coffee,Night Owl,DC,2,,NH,10,Waterfall
+,4/14/2005,78,Male,Neither,Night Owl,MO,9,,MO,9,Waterfall
+,6/5/1994,62,Female,Coffee,Early Bird,NC,4,,DC,24,Waterfall
+,6/25/1999,61,Female,Neither,Early Bird,UT,19,,UT,19,Waterfall
+,4/16/1984,72,Male,Coffee,Early Bird,WY,14,,IA,21,No term for this
+,10/22/2004,71,Male,Coffee,Night Owl,MO,1,,MO,1,Waterfall
+,7/27/1985,76,Male,Tea,Night Owl,OK,26,,OK,26,Waterfall
+,6/17/1998,61,Female,Coffee,Night Owl,AZ,12,,GA,12,Waterfall
+,10/30/2003,61,Female,Neither,Night Owl,MS,14,,MS,14,Waterfall
+,8/10/1987,65,Female,Tea,Night Owl,UT,17,,UT,17,Waterfall
+,6/14/1999,63,Female,Coffee,Early Bird,CT,14,,CT,14,Waterfall
+,1/11/2000,73,Male,Coffee,Night Owl,AK,19,,AK,19,Waterfall
+,3/27/1976,66,Female,Tea,Early Bird,NE,25,,NE,25,Waterfall
+,1/21/1975,72,Male,Neither,Night Owl,WI,23,,WI,23,Waterfall
+,6/22/1995,75,Male,Tea,Night Owl,DC,1,,DC,1,Waterfall
+,12/15/1999,69,Male,Coffee,Early Bird,IN,22,,IN,22,Waterfall
+,4/5/2001,78,Male,Tea,Early Bird,HI,2,,MI,7,Fountain
+,6/18/2001,78,Male,Coffee,Early Bird,SD,10,,SD,10,Waterfall
+,4/6/1998,71,Male,Tea,Night Owl,UT,7,,NM,8,Waterfall
+,6/27/1996,71,Male,Tea,Night Owl,VT,6,,MD,12,Airsip
+,8/4/1999,78,Male,Coffee,Night Owl,KY,4,,ID,4,No term for this
+,11/28/2002,66,Female,Neither,Night Owl,ID,5,,ID,5,Waterfall
+,2/25/2005,61,Female,Tea,Night Owl,MD,3,,AK,7,Waterfall
+,1/2/1998,63,Female,Tea,Night Owl,AR,8,,AR,8,Waterfall
+,6/5/1988,79,Male,Coffee,Night Owl,ME,5,,MN,13,Waterfall
+,1/12/2001,61,Female,Tea,Night Owl,CA,2,,CA,2,Birdie
+,6/18/2000,62,Female,Tea,Early Bird,NM,9,,ME,9,Waterfall
+,8/26/1999,65,Female,Coffee,Night Owl,RI,2,,MT,14,Waterfall
+,7/2/2002,74,Male,Tea,Night Owl,SD,13,,SD,13,Waterfall
+,11/11/2000,66,Female,Coffee,Night Owl,CO,17,,CO,17,Waterfall
+,7/16/1991,72,Male,Tea,Early Bird,CT,14,,MS,17,Waterfall
+,5/1/1990,78,Male,Coffee,Night Owl,ND,3,,LA,10,Waterfall
+,12/10/2003,59,Female,Tea,Night Owl,OH,15,,OH,15,Waterfall
+,11/29/1998,71,Male,Coffee,Night Owl,LA,20,,LA,20,Waterfall
+,5/2/1999,69,Male,Tea,Early Bird,NV,2,,CA,11,Birdie
+,8/29/2001,69,Male,Neither,Night Owl,SC,7,,FL,8,Waterfall
+,7/1/1997,65,Female,Coffee,Night Owl,AK,21,,AK,21,Waterfall
+,2/8/1992,61,Female,Coffee,Early Bird,SD,16,,SD,16,Waterfall
+,5/9/2000,70,Male,Coffee,Early Bird,WI,14,,WI,14,Waterfall
+,7/24/2001,63,Female,Coffee,Night Owl,TN,6,,UT,15,Waterfall
+,1/31/1983,61,Female,Neither,Night Owl,NV,12,,GA,13,Waterfall
+,5/29/2005,61,Female,Coffee,Early Bird,SD,5,,ID,6,Waterfall
+,1/17/1983,70,Male,Coffee,Night Owl,PA,34,,PA,34,Waterfall
+,1/13/1983,60,Female,Neither,Night Owl,KS,30,,KS,30,Waterfall
+,5/31/1995,59,Female,Tea,Early Bird,ID,3,,ID,3,No term for this
+,10/30/2000,60,Female,Coffee,Early Bird,MO,3,,NY,9,Airsip
+,3/18/1998,77,Male,Tea,Night Owl,CA,21,,CA,21,Waterfall
+,5/15/2001,79,Male,Coffee,Night Owl,WI,4,,WI,4,Waterfall
+,11/4/2003,73,Male,Coffee,Night Owl,TN,6,,FL,6,Waterfall
+,8/15/2004,74,Male,Coffee,Early Bird,NY,4,,NY,4,Airsip
+,11/6/1996,62,Female,Tea,Night Owl,KY,2,,KY,2,Waterfall
+,8/14/1987,65,Female,Tea,Night Owl,MD,33,,MD,33,Waterfall
+,1/1/2000,62,Female,Coffee,Night Owl,LA,11,,ME,11,Waterfall
+,7/4/1988,71,Male,Neither,Night Owl,DE,9,,NJ,23,Waterfall
+,10/26/2001,62,Female,Neither,Night Owl,AR,5,,AR,5,Waterfall
+,11/27/1998,65,Female,Neither,Night Owl,NC,17,,NC,17,Waterfall
+,2/13/1995,60,Female,Tea,Night Owl,MN,21,,MN,21,Waterfall
+,9/27/2003,74,Male,Tea,Night Owl,TN,8,,TN,8,Waterfall
+,7/21/2003,62,Female,Tea,Night Owl,NV,1,,AL,18,Waterfall
+,12/14/1999,73,Male,Coffee,Night Owl,MO,11,,WV,11,Waterfall
+,4/18/2002,69,Male,Tea,Night Owl,HI,9,,CO,11,Waterfall
+,1/5/1997,59,Female,Coffee,Night Owl,MD,10,,MD,10,Airsip
+,1/18/2003,63,Female,Neither,Night Owl,NJ,4,,MI,12,Fountain
+,6/5/2002,61,Female,Coffee,Night Owl,DC,8,,OH,9,Waterfall
+,12/17/1999,77,Male,Tea,Early Bird,PA,17,,PA,17,Pop
+,11/7/1999,74,Male,Neither,Night Owl,MA,3,,CT,13,Waterfall
+,3/2/2000,72,Male,Coffee,Night Owl,TN,3,,PA,8,Pop
+,6/23/2004,69,Male,Neither,Early Bird,OK,4,,VA,11,Waterfall
+,12/5/2001,64,Female,Tea,Early Bird,AR,5,,AR,5,Waterfall
+,12/26/1989,65,Female,Tea,Night Owl,MT,4,,MT,4,Waterfall
+,5/9/2002,72,Male,Coffee,Early Bird,WI,10,,WI,10,Waterfall
+,7/31/1997,70,Male,Tea,Night Owl,CO,7,,NJ,18,Airdrink
+,11/21/1999,62,Female,Tea,Night Owl,WV,1,,UT,10,Waterfall
+,7/13/2000,62,Female,Coffee,Night Owl,NM,3,,DC,18,Waterfall
+,1/27/1980,62,Female,Coffee,Early Bird,VT,15,,VT,15,Waterfall
+,4/2/2001,73,Male,Tea,Night Owl,MS,21,,MS,21,Waterfall
+,3/31/2001,60,Female,Tea,Early Bird,KS,2,,OH,8,Waterfall
+,11/3/2004,61,Female,Coffee,Night Owl,KS,4,,AL,13,Waterfall
+,10/7/1998,78,Male,Coffee,Night Owl,AR,3,,NH,7,Waterfall
+,12/10/1981,79,Male,Tea,Night Owl,VA,28,,VA,28,Waterfall
+,4/14/2004,63,Female,Tea,Early Bird,IA,15,,IA,15,No term for this
+,3/28/1997,63,Female,Neither,Night Owl,MT,7,,SC,9,Waterfall
+,9/16/1991,66,Female,Tea,Night Owl,MI,10,,HI,12,Waterfall
+,5/23/2002,77,Male,Coffee,Early Bird,FL,14,,FL,14,Airsip
+,11/17/2005,76,Male,Coffee,Night Owl,NJ,5,,NJ,5,Airdrink
+,5/18/1984,74,Male,Coffee,Night Owl,NC,11,,NC,11,Waterfall
+,1/8/1998,72,Male,Tea,Night Owl,NJ,16,,NJ,16,Airsip
+,11/19/2002,75,Male,Tea,Early Bird,RI,9,,WY,9,Waterfall
+,2/25/1992,76,Male,Coffee,Night Owl,VA,15,,MO,15,Waterfall
+,2/24/1997,66,Female,Neither,Night Owl,AK,6,,AZ,15,Waterfall
+,7/24/2001,79,Male,Neither,Night Owl,PA,3,,PA,3,Waterfall
+,11/5/1997,79,Male,Neither,Early Bird,MO,3,,AZ,8,Waterfall
+,5/16/2006,64,Female,Coffee,Early Bird,AK,2,,GA,6,Waterfall
+,8/19/1999,61,Female,Tea,Early Bird,DE,12,,DE,12,Waterfall
+,11/13/2002,59,Female,Neither,Night Owl,VA,3,,DE,13,Waterfall
+,1/9/1977,72,Male,Tea,Night Owl,WV,5,,IN,33,Waterfall
+,1/21/2003,79,Male,Tea,Night Owl,UT,4,,UT,4,Waterfall
+,10/1/2005,61,Female,Neither,Early Bird,MS,3,,AK,7,Waterfall
+,9/8/1981,69,Male,Tea,Night Owl,NJ,11,,IL,29,Waterfall
+,9/8/1975,66,Female,Coffee,Night Owl,HI,8,,MN,23,Waterfall
+,8/11/1975,66,Female,Tea,Early Bird,DC,21,,MA,23,Sky
+,11/28/2003,76,Male,Neither,Night Owl,WI,16,,WI,16,Waterfall
+,7/6/1997,59,Female,Neither,Night Owl,IL,10,,VT,11,Waterfall
+,8/13/1991,74,Male,Coffee,Early Bird,OH,4,,NH,15,Waterfall
+,12/30/1998,71,Male,Neither,Night Owl,OK,5,,OK,5,Waterfall
+,9/7/2004,77,Male,Coffee,Night Owl,NY,6,,OH,8,Waterfall
+,7/6/1998,66,Female,Coffee,Night Owl,AL,23,,AL,23,Waterfall
+,10/21/1999,65,Female,Coffee,Early Bird,UT,1,,UT,1,Waterfall
+,6/7/2004,79,Male,Tea,Early Bird,IN,1,,PA,7,Pop
+,7/21/1997,66,Female,Tea,Early Bird,MT,2,,OH,14,Waterfall
+,3/26/2002,72,Male,Tea,Night Owl,SD,8,,SD,8,Waterfall
+,1/24/1983,60,Female,Coffee,Night Owl,MD,14,,SC,21,Waterfall
+,10/17/1997,59,Female,Tea,Night Owl,CO,21,,CO,21,Waterfall
+,3/15/1999,61,Female,Tea,Night Owl,OH,16,,OH,16,Waterfall
+,1/3/2003,65,Female,Tea,Night Owl,WV,2,,WV,2,Waterfall
+,2/18/2002,62,Female,Coffee,Night Owl,MS,10,,MS,10,Waterfall
+,1/23/2002,60,Female,Tea,Early Bird,LA,9,,MI,9,Airsip
+,4/18/2001,65,Female,Tea,Early Bird,MD,9,,CA,10,Birdie
+,2/17/2002,73,Male,Tea,Night Owl,OK,8,,WA,11,Airdrink
+,2/17/1998,63,Female,Neither,Night Owl,MN,20,,MN,20,Waterfall
+,6/2/2004,64,Female,Tea,Night Owl,CT,7,,DC,8,Waterfall
+,1/12/1979,69,Male,Neither,Night Owl,FL,8,,NH,19,Waterfall
+,6/8/2000,78,Male,Coffee,Night Owl,RI,8,,LA,12,Waterfall
+,12/29/2003,61,Female,Coffee,Early Bird,CT,8,,MO,10,Waterfall
+,2/3/2005,63,Female,Coffee,Early Bird,ND,1,,ND,1,Waterfall
+,9/5/1983,66,Female,Coffee,Night Owl,CA,5,,NC,23,Waterfall
+,4/17/1995,70,Male,Tea,Night Owl,KS,11,,KS,11,Waterfall
+,11/11/1999,62,Female,Tea,Night Owl,IA,6,,AZ,9,Waterfall
+,9/22/1994,64,Female,Tea,Night Owl,OR,14,,DC,14,Waterfall
+,9/23/1998,73,Male,Tea,Night Owl,MO,2,,MS,10,Waterfall
+,3/18/1977,64,Female,Tea,Night Owl,CO,22,,CO,22,Waterfall
+,4/23/2000,76,Male,Coffee,Night Owl,MD,2,,MD,2,Waterfall
+,1/26/1997,77,Male,Coffee,Night Owl,WI,7,,WI,7,Waterfall
+,11/5/1999,63,Female,Coffee,Night Owl,AZ,6,,MI,10,Fountain
+,10/3/2003,66,Female,Tea,Night Owl,KS,17,,KS,17,Waterfall
+,3/12/1997,64,Female,Coffee,Night Owl,CT,25,,CT,25,Waterfall
+,8/29/1995,65,Female,Tea,Early Bird,IL,13,,IL,13,Waterfall
+,8/13/2000,79,Male,Coffee,Night Owl,DC,10,,DC,10,Waterfall
+,12/18/2002,72,Male,Coffee,Night Owl,AL,2,,SD,9,Waterfall
+,6/19/2003,61,Female,Coffee,Night Owl,NM,2,,RI,4,Waterfall
+,7/14/2004,72,Male,Tea,Night Owl,NE,11,,NE,11,Waterfall
+,3/21/1992,65,Female,Coffee,Night Owl,CT,14,,MT,15,Waterfall
+,9/23/2006,71,Male,Coffee,Night Owl,KY,12,,KY,12,Waterfall
+,5/2/2002,61,Female,Coffee,Night Owl,DE,10,,AR,10,Waterfall
+,8/21/2002,59,Female,Coffee,Night Owl,AZ,6,,AZ,6,Waterfall
+,1/9/2000,62,Female,Tea,Early Bird,RI,2,,TN,16,Waterfall
+,4/28/2003,77,Male,Tea,Early Bird,ME,18,,ME,18,Waterfall
+,1/12/2004,79,Male,Tea,Night Owl,MT,6,,NM,8,Waterfall
+,4/4/1976,64,Female,Tea,Early Bird,NV,18,,NV,18,Waterfall
+,11/22/1993,66,Female,Coffee,Night Owl,WA,9,,NE,13,Waterfall
+,4/16/1990,70,Male,Tea,Early Bird,WI,21,,WI,21,Waterfall
+,1/25/2002,77,Male,Coffee,Night Owl,MA,1,,OR,19,Waterfall
+,8/7/1998,75,Male,Coffee,Night Owl,NC,12,,NJ,12,Waterfall
+,12/6/2000,62,Female,Tea,Early Bird,MI,2,,MI,2,Fountain
+,8/7/2004,63,Female,Tea,Early Bird,AL,8,,ND,8,Waterfall
+,4/6/2001,62,Female,Neither,Early Bird,AR,1,,AR,1,Waterfall
+,1/6/1981,79,Male,Coffee,Night Owl,WY,18,,TX,21,Waterfall
+,7/17/1990,60,Female,Tea,Early Bird,WI,32,,WI,32,Waterfall
+,7/25/1985,59,Female,Coffee,Night Owl,UT,2,,UT,2,Waterfall
+,11/22/1984,62,Female,Tea,Night Owl,LA,21,,LA,21,Waterfall
+,3/29/1998,74,Male,Neither,Night Owl,NJ,5,,ND,7,Waterfall
+,12/23/1980,66,Female,Coffee,Night Owl,MD,4,,OR,19,Waterfall
+,6/2/1998,65,Female,Tea,Early Bird,SC,9,,AR,11,Waterfall
+,8/20/1998,79,Male,Tea,Night Owl,AR,11,,HI,11,Waterfall
+,3/6/2004,60,Female,Neither,Early Bird,TN,7,,TN,7,Waterfall
+,2/16/1992,79,Male,Coffee,Night Owl,AR,6,,AR,6,Waterfall
+,4/23/2000,73,Male,Coffee,Night Owl,WV,12,,WV,12,Waterfall
+,7/26/1988,63,Female,Neither,Early Bird,VT,29,,VT,29,Waterfall
+,1/24/1997,78,Male,Tea,Night Owl,NC,15,,NC,15,Waterfall
+,12/2/1997,69,Male,Coffee,Night Owl,VT,12,,DE,12,Waterfall
+,9/15/1975,75,Male,Coffee,Night Owl,WV,20,,LA,23,Waterfall
+,2/20/1987,61,Female,Coffee,Night Owl,WI,34,,WI,34,Waterfall
+,4/30/1990,74,Male,Tea,Night Owl,MS,7,,OR,15,Waterfall
+,11/9/2004,63,Female,Tea,Night Owl,MO,3,,NH,6,Waterfall
+,3/25/1988,65,Female,Neither,Night Owl,VT,7,,MD,8,Airsip
+,3/21/1997,78,Male,Tea,Night Owl,ND,9,,AK,9,Waterfall
+,8/25/2000,63,Female,Tea,Night Owl,MT,4,,DC,10,Waterfall
+,1/25/2002,71,Male,Neither,Night Owl,ID,4,,ID,4,Waterfall
+,7/14/1999,76,Male,Coffee,Night Owl,MA,9,,WV,13,Waterfall
+,4/14/2003,76,Male,Tea,Night Owl,KY,6,,MS,7,Waterfall
+,1/1/2004,60,Female,Tea,Night Owl,OK,7,,WV,11,Waterfall
+,5/26/2001,70,Male,Coffee,Night Owl,AR,7,,KS,12,Waterfall
+,9/13/1997,73,Male,Tea,Night Owl,NV,21,,NV,21,Waterfall
+,5/5/1997,63,Female,Neither,Early Bird,NV,24,,NV,24,Waterfall
+,2/17/1999,78,Male,Coffee,Night Owl,DC,2,,ME,7,Waterfall
+,6/1/2002,63,Female,Neither,Night Owl,MN,3,,MN,3,Waterfall
+,12/23/2001,66,Female,Coffee,Night Owl,CT,7,,SD,10,Waterfall
+,2/5/1999,74,Male,Tea,Early Bird,MO,5,,MO,5,Waterfall
+,12/30/2001,66,Female,Tea,Night Owl,ME,14,,ME,14,Waterfall
+,6/22/1989,72,Male,Tea,Early Bird,GA,6,,GA,6,Waterfall
+,2/27/1984,62,Female,Coffee,Night Owl,CA,16,,CA,16,Birdie
+,3/27/2004,59,Female,Tea,Night Owl,NM,12,,NM,12,Waterfall
+,5/31/1999,71,Male,Tea,Night Owl,AL,10,,FL,10,Airsip
+,1/5/1999,64,Female,Tea,Early Bird,AR,2,,AL,9,Waterfall
+,8/9/1992,62,Female,Coffee,Early Bird,DC,11,,SD,19,Waterfall
+,5/4/2002,74,Male,Neither,Early Bird,IA,7,,ID,11,No term for this
+,10/29/2000,64,Female,Tea,Night Owl,VA,14,,VA,14,Waterfall
+,11/4/1999,66,Female,Neither,Early Bird,VA,8,,IN,8,Waterfall
+,12/19/1998,76,Male,Coffee,Night Owl,OR,4,,OR,4,Waterfall
+,3/22/2003,61,Female,Tea,Early Bird,KS,4,,MD,10,Airsip
+,10/16/1999,69,Male,Coffee,Night Owl,IA,15,,IA,15,No term for this
+,7/1/2003,63,Female,Tea,Night Owl,OR,13,,OR,13,Waterfall
+,12/31/2001,66,Female,Coffee,Early Bird,VT,10,,HI,10,Waterfall
+,7/29/1999,77,Male,Neither,Night Owl,LA,2,,LA,2,Waterfall
+,4/12/1998,71,Male,Coffee,Night Owl,DE,21,,DE,21,Waterfall
+,5/23/2003,60,Female,Tea,Night Owl,NH,3,,CO,16,Waterfall
+,3/3/2002,76,Male,Tea,Night Owl,IL,2,,NE,15,Waterfall
+,6/15/2002,63,Female,Coffee,Night Owl,NJ,9,,NJ,9,Airdrink
+,4/15/1998,64,Female,Coffee,Night Owl,PA,3,,PA,3,Waterfall
+,4/5/1986,66,Female,Tea,Night Owl,DC,33,,DC,33,Waterfall
+,3/28/1980,69,Male,Neither,Early Bird,NY,21,,NM,21,Waterfall
+,5/2/2003,62,Female,Coffee,Night Owl,WI,18,,WI,18,Waterfall
+,6/20/1999,62,Female,Coffee,Early Bird,KS,8,,KS,8,Waterfall
+,8/10/2001,66,Female,Coffee,Night Owl,WA,13,,WA,13,Airdrink
+,7/18/2004,65,Female,Tea,Night Owl,MD,15,,MD,15,Airsip
+,1/23/1999,76,Male,Coffee,Night Owl,SD,3,,SD,3,Waterfall
+,11/3/1989,78,Male,Tea,Night Owl,AZ,28,,AZ,28,Waterfall
+,4/12/1997,66,Female,Tea,Night Owl,MD,3,,OK,7,Waterfall
+,6/19/2002,71,Male,Coffee,Night Owl,MO,12,,MO,12,Waterfall
+,12/25/2000,61,Female,Neither,Night Owl,MS,6,,MS,6,Waterfall
+,7/1/1999,66,Female,Tea,Early Bird,OH,11,,OH,11,Waterfall
+,3/3/1993,71,Male,Coffee,Night Owl,IL,16,,IL,16,Waterfall
+,9/25/2000,59,Female,Coffee,Night Owl,DC,5,,NE,15,Waterfall
+,9/26/2004,62,Female,Tea,Night Owl,AK,9,,OH,9,Waterfall
+,2/14/1997,63,Female,Tea,Night Owl,VA,14,,VA,14,Waterfall
+,2/10/1991,77,Male,Neither,Early Bird,OR,9,,OR,9,Waterfall
+,2/27/1985,79,Male,Coffee,Night Owl,SC,17,,SC,17,Waterfall
+,4/18/2002,62,Female,Coffee,Night Owl,CA,2,,TX,13,Waterfall
+,11/29/2004,59,Female,Tea,Night Owl,RI,16,,RI,16,Waterfall
+,4/15/2001,73,Male,Tea,Early Bird,MO,7,,MO,7,Waterfall
+,4/8/2000,61,Female,Coffee,Night Owl,SD,3,,SD,3,Waterfall
+,3/29/2000,65,Female,Tea,Night Owl,DE,2,,DE,2,Waterfall
+,6/12/2001,77,Male,Tea,Early Bird,NC,18,,NC,18,Waterfall
+,10/15/2000,64,Female,Tea,Night Owl,WA,10,,GA,11,Waterfall
+,5/21/1999,63,Female,Coffee,Early Bird,DE,3,,IN,3,Waterfall
+,7/19/1977,66,Female,Tea,Night Owl,HI,12,,HI,12,Waterfall
+,12/7/1981,60,Female,Neither,Night Owl,WA,40,,WA,40,Airdrink
+,11/10/1986,61,Female,Coffee,Early Bird,UT,6,,UT,6,Waterfall
+,12/12/2003,66,Female,Coffee,Night Owl,MD,6,,MD,6,Airsip
+,6/19/1976,71,Male,Tea,Night Owl,MS,4,,MS,4,Waterfall
+,4/2/1998,76,Male,Coffee,Night Owl,NY,3,,NY,3,Airsip
+,2/10/1999,70,Male,Tea,Night Owl,MD,7,,IN,8,Waterfall
+,11/13/1998,75,Male,Neither,Night Owl,NH,13,,NH,13,Waterfall
+,11/7/1998,62,Female,Neither,Night Owl,OH,9,,NV,9,Waterfall
+,5/24/1998,75,Male,Coffee,Night Owl,MI,16,,MI,16,Airsip
+,8/8/1984,69,Male,Coffee,Night Owl,OR,2,,DC,9,Waterfall
+,4/24/1989,75,Male,Tea,Night Owl,NJ,13,,AL,16,Waterfall
+,3/30/1995,69,Male,Tea,Night Owl,CA,12,,CA,12,Birdie
+,9/1/2000,59,Female,Tea,Night Owl,MO,18,,MO,18,Waterfall
+,11/21/2001,73,Male,Tea,Night Owl,CA,12,,CA,12,Birdie
+,8/3/2004,69,Male,Tea,Night Owl,WI,13,,WI,13,Waterfall
+,12/31/1981,61,Female,Coffee,Night Owl,OK,28,,OK,28,Waterfall
+,1/21/2000,65,Female,Tea,Early Bird,SC,8,,WV,11,Waterfall
+,8/20/1992,79,Male,Tea,Night Owl,WY,4,,WY,4,Waterfall
+,12/5/1998,71,Male,Coffee,Night Owl,DE,7,,OH,14,Waterfall
+,10/2/2000,74,Male,Neither,Night Owl,IN,13,,IN,13,Waterfall
+,12/16/1984,72,Male,Neither,Early Bird,TX,34,,TX,34,Waterfall
+,4/16/1998,79,Male,Coffee,Night Owl,KY,2,,KY,2,Waterfall
+,1/7/2002,73,Male,Coffee,Night Owl,HI,15,,HI,15,Waterfall
+,4/28/1997,71,Male,Tea,Night Owl,MT,4,,MN,4,Waterfall
+,12/11/2002,76,Male,Tea,Night Owl,NY,3,,VA,8,Waterfall
+,10/8/2004,59,Female,Coffee,Night Owl,NJ,4,,OR,6,Waterfall
+,1/27/1987,79,Male,Tea,Night Owl,VT,20,,VT,20,Waterfall
+,6/22/1984,61,Female,Coffee,Night Owl,CA,1,,IA,7,No term for this
+,8/2/1984,77,Male,Neither,Night Owl,MI,11,,MT,17,Waterfall
+,1/18/2001,65,Female,Tea,Night Owl,NC,14,,NC,14,Waterfall
+,1/30/2001,70,Male,Tea,Night Owl,OR,20,,OR,20,Waterfall
+,7/15/2002,79,Male,Coffee,Early Bird,MT,20,,MT,20,Waterfall
+,3/27/2000,72,Male,Coffee,Night Owl,MO,22,,MO,22,Waterfall
+,5/16/1978,60,Female,Tea,Night Owl,ME,3,,PA,10,Pop
+,12/8/2001,77,Male,Coffee,Night Owl,ID,8,,ID,8,No term for this
+,12/27/1998,65,Female,Coffee,Night Owl,OK,5,,WV,15,Waterfall
+,6/17/1996,65,Female,Coffee,Early Bird,NV,3,,NV,3,Waterfall
+,5/29/2004,61,Female,Neither,Night Owl,IN,6,,IN,6,Waterfall
+,9/13/1987,60,Female,Tea,Night Owl,TX,6,,MO,25,Waterfall
+,5/11/1994,79,Male,Tea,Early Bird,SC,5,,SC,5,Waterfall
+,2/19/1985,63,Female,Neither,Night Owl,MI,32,,MI,32,Fountain
+,5/26/1982,78,Male,Coffee,Early Bird,MD,20,,TN,20,Waterfall
+,10/17/2001,76,Male,Tea,Night Owl,AR,9,,IN,10,Waterfall
+,8/3/1987,64,Female,Tea,Early Bird,OH,4,,AZ,30,Waterfall
+,11/16/1979,60,Female,Tea,Night Owl,MD,17,,SC,21,Waterfall
+,9/26/1999,63,Female,Tea,Night Owl,NJ,6,,NJ,6,Airsip
+,8/26/1998,59,Female,Tea,Night Owl,AK,19,,AK,19,Waterfall
+,3/23/2004,78,Male,Coffee,Night Owl,MS,13,,MS,13,Waterfall
+,7/2/2004,65,Female,Coffee,Night Owl,AK,3,,CT,4,Waterfall
+,3/18/2002,77,Male,Neither,Night Owl,CT,1,,CT,1,Waterfall
+,4/30/1999,66,Female,Tea,Early Bird,KY,9,,CO,13,Waterfall
+,5/11/1986,73,Male,Tea,Early Bird,KS,24,,KS,24,Waterfall
+,5/3/1998,73,Male,Neither,Night Owl,NJ,10,,AZ,11,Waterfall
+,10/10/2004,72,Male,Tea,Night Owl,NE,6,,MS,9,Waterfall
+,6/4/2001,62,Female,Tea,Early Bird,MA,8,,MA,8,Sky
+,9/19/1976,78,Male,Tea,Early Bird,SC,21,,VT,25,Waterfall
+,7/13/1993,60,Female,Coffee,Night Owl,NH,1,,MS,10,Waterfall
+,2/4/1998,76,Male,Tea,Night Owl,NM,20,,NM,20,Waterfall
+,2/9/1979,63,Female,Neither,Night Owl,NJ,16,,NJ,16,Airsip
+,6/21/1991,74,Male,Tea,Night Owl,TN,12,,NC,14,Waterfall
+,7/9/2004,72,Male,Tea,Night Owl,WI,6,,IN,9,Waterfall
+,4/4/1981,78,Male,Neither,Night Owl,VA,12,,MT,27,Waterfall
+,10/9/2003,59,Female,Tea,Night Owl,WI,7,,WI,7,Waterfall
+,8/1/1998,79,Male,Tea,Night Owl,AR,10,,WI,14,Waterfall
+,3/26/2004,59,Female,Tea,Early Bird,DE,9,,LA,9,Waterfall
+,9/29/2003,61,Female,Tea,Night Owl,WA,6,,WA,6,Airdrink
+,3/23/1997,61,Female,Tea,Night Owl,PA,4,,PA,4,Pop
+,7/18/1984,78,Male,Coffee,Night Owl,SC,23,,SC,23,Waterfall
+,1/29/1975,69,Male,Coffee,Night Owl,NJ,5,,KY,36,Waterfall
+,1/8/1998,61,Female,Tea,Early Bird,NH,5,,TX,16,Waterfall
+,12/28/1987,70,Male,Tea,Night Owl,SD,6,,TN,10,Waterfall
+,7/2/1975,77,Male,Tea,Night Owl,ME,21,,ME,21,Waterfall
+,11/30/1976,74,Male,Tea,Night Owl,CO,36,,CO,36,Waterfall
+,4/19/1998,61,Female,Tea,Night Owl,WV,5,,OK,13,Waterfall
+,12/12/1977,76,Male,Tea,Night Owl,MS,12,,SC,32,Waterfall
+,5/20/1976,76,Male,Neither,Night Owl,NM,18,,OK,21,Waterfall
+,9/17/2001,78,Male,Tea,Night Owl,MD,9,,MD,9,Waterfall
+,2/24/2000,60,Female,Tea,Night Owl,RI,6,,SD,11,Waterfall
+,10/19/1997,71,Male,Tea,Early Bird,CO,4,,NV,11,Waterfall
+,9/25/1983,78,Male,Tea,Night Owl,PA,1,,VA,16,Waterfall
+,9/17/2004,69,Male,Tea,Night Owl,IA,8,,MN,9,Waterfall
+,5/22/1997,74,Male,Tea,Night Owl,MD,5,,TX,17,Waterfall
+,2/17/2001,60,Female,Neither,Night Owl,AR,5,,NV,9,Waterfall
+,8/2/2004,62,Female,Tea,Night Owl,IL,9,,CT,9,Waterfall
+,6/4/2000,77,Male,Coffee,Early Bird,TN,4,,TN,4,Waterfall
+,12/11/2001,74,Male,Coffee,Night Owl,NY,3,,ND,16,Waterfall
+,12/30/2004,59,Female,Neither,Night Owl,NE,14,,NE,14,Waterfall
+,1/24/2003,76,Male,Coffee,Night Owl,UT,10,,UT,10,Waterfall
+,4/14/1982,62,Female,Neither,Night Owl,MI,5,,ME,10,Waterfall
+,12/13/2000,69,Male,Tea,Early Bird,VA,2,,AL,2,Waterfall
+,11/11/2003,59,Female,Coffee,Night Owl,UT,19,,UT,19,Waterfall
+,11/3/2001,64,Female,Neither,Night Owl,WY,3,,NY,17,Airsip
+,10/17/1988,75,Male,Neither,Night Owl,ND,22,,ND,22,Waterfall
+,12/9/1997,71,Male,Neither,Night Owl,AK,11,,HI,14,Waterfall
+,10/16/1992,60,Female,Coffee,Night Owl,MA,7,,MT,15,Waterfall
+,5/5/1997,63,Female,Tea,Night Owl,NC,7,,CA,16,Birdie
+,11/2/1998,77,Male,Coffee,Night Owl,IA,6,,IA,6,No term for this
+,5/4/1983,79,Male,Neither,Night Owl,NV,19,,GA,19,Waterfall
+,5/26/1977,74,Male,Coffee,Night Owl,IA,15,,IA,15,Waterfall
+,11/23/2001,62,Female,Neither,Early Bird,RI,1,,RI,1,Waterfall
+,3/4/2003,64,Female,Tea,Night Owl,VT,1,,VT,1,Waterfall
+,6/30/1984,62,Female,Coffee,Early Bird,SC,2,,FL,31,Airsip
+,5/14/2003,66,Female,Coffee,Night Owl,CA,12,,CA,12,Birdie
+,5/13/1993,72,Male,Coffee,Early Bird,MO,2,,DC,8,Waterfall
+,8/23/2003,72,Male,Tea,Night Owl,AK,5,,MI,13,Fountain
+,8/5/2001,65,Female,Tea,Night Owl,MI,5,,MI,5,Airsip
+,10/30/2001,63,Female,Coffee,Night Owl,IN,4,,IN,4,Waterfall
+,2/27/2003,74,Male,Tea,Night Owl,NH,4,,TX,5,Waterfall
+,11/17/2003,73,Male,Tea,Night Owl,RI,1,,RI,1,Waterfall
+,2/2/1999,61,Female,Coffee,Night Owl,MO,9,,MO,9,Waterfall
+,4/8/1997,74,Male,Tea,Night Owl,AL,3,,AL,3,Waterfall
+,10/16/2001,71,Male,Coffee,Night Owl,OH,6,,OH,6,Waterfall
+,11/9/1998,63,Female,Tea,Night Owl,WV,24,,WV,24,Waterfall
+,2/27/1999,59,Female,Neither,Night Owl,MD,7,,KS,15,Waterfall
+,2/11/2005,62,Female,Coffee,Night Owl,OH,8,,ID,9,No term for this
+,11/13/1999,75,Male,Tea,Night Owl,MO,22,,MO,22,Waterfall
+,11/16/1997,75,Male,Coffee,Night Owl,IA,12,,IA,12,No term for this
+,1/3/1998,74,Male,Tea,Night Owl,UT,12,,WI,12,Waterfall
+,11/14/2001,71,Male,Neither,Night Owl,ID,6,,TX,15,Waterfall
+,6/11/1988,76,Male,Tea,Night Owl,HI,6,,WV,20,Waterfall
+,7/8/1990,72,Male,Coffee,Early Bird,NY,6,,NY,6,Airsip
+,9/7/2003,74,Male,Coffee,Early Bird,GA,1,,CO,5,Waterfall
+,11/4/2004,61,Female,Tea,Night Owl,TN,9,,NH,9,Waterfall
+,12/28/2004,59,Female,Neither,Early Bird,PA,11,,PA,11,Pop
+,4/30/1982,71,Male,Coffee,Night Owl,AZ,2,,AZ,2,Waterfall
+,3/24/1992,63,Female,Neither,Night Owl,GA,27,,GA,27,Waterfall
+,6/12/1979,66,Female,Coffee,Night Owl,CA,7,,AL,27,Waterfall
+,11/17/2000,59,Female,Coffee,Early Bird,PA,1,,CT,1,Waterfall
+,5/4/1979,73,Male,Coffee,Early Bird,GA,37,,GA,37,Waterfall
+,4/2/1999,79,Male,Tea,Night Owl,ME,1,,KS,14,Waterfall
+,11/22/2000,75,Male,Coffee,Night Owl,GA,5,,GA,5,Waterfall
+,9/30/2001,75,Male,Neither,Night Owl,WV,5,,WV,5,Waterfall
+,5/25/2001,61,Female,Coffee,Night Owl,IA,2,,MD,18,Waterfall
+,1/18/2004,63,Female,Neither,Night Owl,DC,17,,DC,17,Waterfall
+,4/29/2000,62,Female,Neither,Night Owl,SC,5,,SC,5,Waterfall
+,10/2/2000,63,Female,Coffee,Early Bird,MN,11,,KY,11,Waterfall
+,3/1/2001,71,Male,Neither,Night Owl,AK,1,,WY,8,Waterfall
+,6/25/1976,75,Male,Coffee,Early Bird,VA,12,,AZ,29,Waterfall
+,3/24/1983,64,Female,Coffee,Night Owl,HI,19,,DE,20,Waterfall
+,10/18/2003,64,Female,Coffee,Night Owl,TX,5,,TX,5,Waterfall
+,2/2/1997,79,Male,Neither,Night Owl,DC,3,,DE,16,Waterfall
+,9/13/2003,72,Male,Tea,Night Owl,ND,4,,RI,15,Waterfall
+,8/17/1997,77,Male,Coffee,Night Owl,TN,1,,TN,1,Waterfall
+,9/1/1998,59,Female,Neither,Night Owl,IN,9,,IN,9,Waterfall
+,8/23/1998,62,Female,Tea,Night Owl,LA,10,,LA,10,Waterfall
+,9/8/2001,76,Male,Tea,Night Owl,HI,3,,NH,5,Waterfall
+,12/17/2001,75,Male,Coffee,Early Bird,MO,5,,TN,15,Waterfall
+,2/1/2004,61,Female,Neither,Early Bird,WY,7,,AZ,11,Waterfall
+,8/20/1999,78,Male,Tea,Night Owl,AK,3,,AK,3,Waterfall
+,7/30/1983,63,Female,Neither,Night Owl,DC,2,,DC,2,Waterfall
+,5/10/1996,77,Male,Tea,Early Bird,IA,23,,IA,23,No term for this
+,8/6/2004,72,Male,Neither,Night Owl,PA,17,,PA,17,Waterfall
+,7/15/1997,73,Male,Coffee,Night Owl,ME,15,,ME,15,Waterfall
+,12/27/2004,64,Female,Coffee,Early Bird,IL,4,,IN,8,Waterfall
+,5/9/2000,78,Male,Neither,Night Owl,OR,10,,OR,10,Waterfall
+,5/13/2000,66,Female,Neither,Night Owl,MA,20,,MA,20,Sky
+,4/18/1981,59,Female,Tea,Early Bird,RI,29,,RI,29,Waterfall
+,6/24/2001,60,Female,Coffee,Night Owl,HI,9,,HI,9,Waterfall
+,11/17/1997,73,Male,Coffee,Early Bird,WV,1,,MA,9,Sky
+,1/7/1997,61,Female,Tea,Night Owl,AR,5,,TX,17,Waterfall
+,3/4/2001,78,Male,Neither,Night Owl,WV,2,,VT,10,Waterfall
+,4/15/1990,72,Male,Coffee,Night Owl,NH,10,,NH,10,Waterfall
+,6/15/2004,75,Male,Tea,Night Owl,NM,15,,NM,15,Waterfall
+,4/26/1976,77,Male,Tea,Night Owl,TN,15,,TN,15,Waterfall
+,8/24/1979,74,Male,Coffee,Early Bird,LA,33,,LA,33,Waterfall
+,2/1/2004,65,Female,Coffee,Night Owl,CO,10,,CO,10,Waterfall
+,12/10/1981,65,Female,Coffee,Night Owl,MT,37,,MT,37,Waterfall
+,9/25/1976,66,Female,Coffee,Night Owl,NV,22,,VA,22,Waterfall
+,9/8/1987,63,Female,Coffee,Night Owl,AR,15,,AR,15,Waterfall
+,1/30/1996,70,Male,Coffee,Night Owl,TX,8,,AL,17,Waterfall
+,11/29/2004,71,Male,Tea,Night Owl,WA,9,,WA,9,Waterfall
+,10/19/1976,72,Male,Tea,Night Owl,OH,25,,OH,25,Waterfall
+,8/8/2004,61,Female,Tea,Night Owl,MD,7,,MD,7,Waterfall
+,2/22/2001,63,Female,Coffee,Early Bird,VT,6,,UT,7,Waterfall
+,2/26/2003,66,Female,Neither,Early Bird,VA,10,,VA,10,Waterfall
+,9/23/2003,79,Male,Tea,Night Owl,KY,8,,GA,11,Waterfall
+,4/15/2005,61,Female,Coffee,Early Bird,MS,3,,MS,3,Waterfall
+,5/21/2000,77,Male,Neither,Night Owl,WY,2,,WY,2,Waterfall
+,5/28/1992,66,Female,Coffee,Night Owl,ID,25,,ID,25,Waterfall
+,9/24/1988,75,Male,Tea,Early Bird,TX,23,,TX,23,Waterfall
+,4/11/1998,63,Female,Tea,Night Owl,UT,4,,UT,4,Waterfall
+,2/24/2006,64,Female,Tea,Night Owl,AZ,4,,AZ,4,Waterfall
+,5/15/1975,66,Female,Neither,Early Bird,ME,13,,MN,19,Waterfall
+,6/13/1998,65,Female,Tea,Night Owl,AZ,10,,NJ,13,Waterfall
+,2/13/2001,74,Male,Tea,Night Owl,DE,8,,NC,13,Waterfall
+,4/10/2002,74,Male,Tea,Early Bird,UT,5,,KS,13,Waterfall
+,4/27/1991,71,Male,Coffee,Night Owl,KY,4,,UT,16,Waterfall
+,5/11/1999,79,Male,Tea,Night Owl,IL,5,,ID,5,No term for this
+,5/16/1991,73,Male,Coffee,Night Owl,TN,2,,IA,20,No term for this
+,11/14/2003,65,Female,Tea,Night Owl,SC,6,,WI,13,Waterfall
+,6/13/2004,63,Female,Tea,Early Bird,MD,1,,OR,8,Waterfall
+,8/1/2002,66,Female,Tea,Night Owl,AZ,1,,OR,1,Waterfall
+,9/19/1999,63,Female,Coffee,Night Owl,SD,5,,TN,7,Waterfall
+,11/3/2000,74,Male,Tea,Night Owl,NC,7,,MD,8,Airsip
+,12/11/1999,66,Female,Coffee,Night Owl,NV,5,,VA,12,Waterfall
+,10/18/1992,77,Male,Coffee,Night Owl,MD,15,,CO,15,Waterfall
+,1/13/2003,66,Female,Tea,Night Owl,MN,8,,IA,8,Waterfall
+,5/27/1975,74,Male,Coffee,Night Owl,CO,7,,LA,30,Waterfall
+,3/9/2000,66,Female,Tea,Early Bird,AL,8,,AL,8,Waterfall
+,8/18/2003,71,Male,Neither,Night Owl,VT,19,,VT,19,Waterfall
+,1/24/1975,66,Female,Tea,Night Owl,KS,14,,UT,21,Waterfall
+,10/24/1987,77,Male,Coffee,Night Owl,ND,12,,KS,23,Waterfall
+,5/3/1976,59,Female,Coffee,Early Bird,UT,22,,DC,22,Waterfall
+,2/24/1977,78,Male,Tea,Night Owl,PA,31,,PA,31,Pop
+,10/22/1999,60,Female,Tea,Night Owl,GA,4,,DC,5,Waterfall
+,11/3/1997,63,Female,Tea,Night Owl,AL,1,,AZ,13,Waterfall
+,1/4/1993,73,Male,Coffee,Night Owl,IN,1,,MN,16,Waterfall
+,7/5/1997,69,Male,Neither,Night Owl,NM,12,,NM,12,Waterfall
+,9/30/1975,73,Male,Coffee,Early Bird,OH,23,,OH,23,Waterfall
+,9/26/2004,61,Female,Tea,Early Bird,ND,18,,ND,18,Waterfall
+,5/21/2001,70,Male,Tea,Night Owl,SD,20,,SD,20,Waterfall
+,2/20/2004,64,Female,Coffee,Night Owl,IN,13,,IN,13,Waterfall
+,10/19/1993,64,Female,Tea,Night Owl,IL,8,,MN,19,Waterfall
+,5/23/1998,74,Male,Neither,Night Owl,MN,15,,MN,15,Waterfall
+,6/21/2004,60,Female,Coffee,Night Owl,ID,17,,ID,17,No term for this
+,10/30/1991,79,Male,Coffee,Early Bird,DC,13,,MA,14,Airsip
+,10/26/1997,72,Male,Tea,Early Bird,ME,12,,TN,12,Waterfall
+,10/15/1999,59,Female,Tea,Night Owl,AK,9,,WA,10,Airdrink
+,1/28/2004,65,Female,Tea,Night Owl,IN,2,,DC,13,Waterfall
+,3/18/1998,77,Male,Neither,Night Owl,PA,2,,OR,20,Waterfall
+,4/4/1993,72,Male,Neither,Night Owl,MD,5,,MD,5,Airsip
+,5/13/1988,59,Female,Tea,Early Bird,RI,8,,RI,8,Waterfall
+,12/7/2003,64,Female,Coffee,Night Owl,KS,5,,DE,13,Waterfall
+,8/23/2002,74,Male,Tea,Night Owl,ND,2,,AR,3,Waterfall
+,12/30/2000,65,Female,Neither,Night Owl,NY,5,,KY,8,Waterfall
+,3/16/1987,65,Female,Tea,Night Owl,WA,11,,WA,11,Airdrink
+,10/18/2001,76,Male,Tea,Early Bird,IA,19,,IA,19,Waterfall
+,7/25/2004,63,Female,Neither,Night Owl,MT,5,,MI,5,Airsip
+,12/18/2001,61,Female,Coffee,Night Owl,CO,7,,CO,7,Waterfall
+,9/10/1999,79,Male,Tea,Night Owl,TN,21,,TN,21,Waterfall
+,4/5/1977,73,Male,Tea,Night Owl,VA,8,,NJ,21,Waterfall
+,4/4/2001,72,Male,Neither,Night Owl,MS,8,,WA,8,Airdrink
+,2/10/1977,62,Female,Coffee,Night Owl,MA,33,,MA,33,Sky
+,8/7/2001,70,Male,Tea,Early Bird,NH,7,,NH,7,Waterfall
+,7/26/2002,77,Male,Tea,Night Owl,LA,7,,MS,7,Waterfall
+,10/2/2002,63,Female,Coffee,Night Owl,VA,3,,AR,7,Waterfall
+,11/29/1992,77,Male,Tea,Night Owl,OH,11,,OH,11,Waterfall
+,10/8/1998,63,Female,Tea,Early Bird,IL,17,,IL,17,Waterfall
+,2/8/2002,66,Female,Coffee,Early Bird,AL,2,,AL,2,Waterfall
+,6/10/2002,62,Female,Neither,Night Owl,IN,9,,NY,10,Airsip
+,4/27/2000,64,Female,Neither,Night Owl,AL,14,,AL,14,Waterfall
+,7/22/2001,65,Female,Neither,Early Bird,MD,9,,KY,9,Waterfall
+,9/23/1998,69,Male,Coffee,Early Bird,ID,7,,ID,7,Waterfall
+,10/25/1993,74,Male,Neither,Night Owl,NE,22,,NE,22,Waterfall
+,3/1/2000,65,Female,Tea,Night Owl,KS,11,,MA,11,Sky
+,11/22/2006,64,Female,Coffee,Night Owl,HI,1,,HI,1,Waterfall
+,9/19/1997,61,Female,Coffee,Early Bird,AL,8,,WA,17,Waterfall
+,4/29/1979,71,Male,Coffee,Night Owl,MD,10,,NE,17,Waterfall
+,9/5/1998,74,Male,Tea,Early Bird,KY,11,,KY,11,Waterfall
+,6/9/2001,77,Male,Tea,Night Owl,MN,3,,PA,16,Pop
+,12/21/2000,74,Male,Neither,Night Owl,DC,2,,DC,2,Waterfall
+,1/10/1976,75,Male,Neither,Night Owl,WI,8,,KS,22,Waterfall
+,9/14/2003,70,Male,Coffee,Night Owl,NE,4,,AZ,9,Waterfall
+,11/19/2001,63,Female,Tea,Night Owl,PA,3,,CA,10,Waterfall
+,7/10/2004,62,Female,Neither,Night Owl,IA,7,,NV,7,Waterfall
+,10/11/2001,75,Male,Tea,Night Owl,MI,8,,MS,12,Waterfall
+,3/20/2003,75,Male,Tea,Early Bird,NC,3,,OR,7,Waterfall
+,2/26/1998,65,Female,Neither,Night Owl,KY,5,,DC,12,Waterfall
+,2/13/2003,62,Female,Neither,Early Bird,VA,3,,VA,3,Waterfall
+,3/4/1995,73,Male,Neither,Night Owl,OH,9,,OH,9,Waterfall
+,7/11/2001,70,Male,Tea,Night Owl,TN,6,,TN,6,Waterfall
+,8/2/2001,62,Female,Tea,Early Bird,UT,14,,UT,14,Waterfall
+,4/16/1999,69,Male,Tea,Early Bird,NH,14,,NH,14,Waterfall
+,10/2/1981,66,Female,Coffee,Night Owl,NC,7,,NE,33,Waterfall
+,4/8/2000,70,Male,Tea,Night Owl,CA,11,,WA,11,Airdrink
+,8/29/1998,65,Female,Tea,Night Owl,NM,24,,NM,24,Waterfall
+,4/12/2000,77,Male,Coffee,Night Owl,CO,8,,ME,14,Waterfall
+,1/8/1980,66,Female,Tea,Early Bird,IA,14,,IA,14,Waterfall
+,1/10/2001,60,Female,Tea,Night Owl,OK,11,,OK,11,Waterfall
+,8/18/1997,69,Male,Coffee,Night Owl,LA,7,,LA,7,Waterfall
+,2/3/2004,66,Female,Coffee,Night Owl,IN,9,,IN,9,Waterfall
+,1/23/1998,64,Female,Coffee,Night Owl,NJ,14,,NJ,14,Waterfall
+,5/20/1988,77,Male,Coffee,Night Owl,MA,15,,CT,16,Waterfall
+,3/31/1998,65,Female,Neither,Night Owl,ND,6,,ND,6,Waterfall
+,4/19/2003,70,Male,Tea,Night Owl,SD,19,,SD,19,Waterfall
+,3/6/2002,62,Female,Tea,Night Owl,KY,19,,KY,19,Waterfall
+,6/28/1996,74,Male,Neither,Early Bird,AR,9,,IN,10,Waterfall
+,3/16/1994,62,Female,Tea,Night Owl,MT,19,,MT,19,Waterfall
+,11/24/1987,59,Female,Neither,Night Owl,WI,10,,ME,14,Waterfall
+,8/13/1988,71,Male,Coffee,Night Owl,WV,25,,WV,25,Waterfall
+,4/11/2003,64,Female,Tea,Night Owl,MA,13,,MA,13,Sky
+,2/10/1981,63,Female,Tea,Night Owl,DE,20,,HI,21,Waterfall
+,3/11/1984,62,Female,Neither,Night Owl,NY,14,,ID,22,No term for this
+,9/27/2003,76,Male,Coffee,Night Owl,FL,5,,FL,5,Airsip
+,5/17/1997,72,Male,Coffee,Night Owl,LA,12,,LA,12,Waterfall
+,7/14/1983,73,Male,Tea,Night Owl,AL,10,,OR,15,Waterfall
+,2/15/2001,63,Female,Coffee,Early Bird,WI,15,,WI,15,Waterfall
+,4/27/2003,65,Female,Coffee,Night Owl,SD,7,,VT,10,Waterfall
+,9/24/2002,61,Female,Neither,Night Owl,MN,10,,IA,10,No term for this
+,3/26/1975,69,Male,Coffee,Night Owl,MA,47,,MA,47,Sky
+,10/18/1980,77,Male,Tea,Night Owl,AK,1,,MN,22,Waterfall
+,5/31/1997,78,Male,Coffee,Night Owl,AL,6,,AL,6,Waterfall
+,5/14/1998,75,Male,Tea,Early Bird,UT,12,,NC,12,Waterfall
+,2/20/2001,66,Female,Tea,Night Owl,OR,7,,WA,10,Airdrink
+,7/17/1999,62,Female,Neither,Early Bird,MO,8,,CO,13,Waterfall
+,12/5/1994,71,Male,Neither,Night Owl,NY,14,,PA,14,Pop
+,10/11/2003,66,Female,Neither,Night Owl,DC,6,,NH,8,Waterfall
+,5/13/1989,62,Female,Tea,Night Owl,AZ,20,,AZ,20,Waterfall
+,5/2/1998,66,Female,Neither,Night Owl,TX,11,,TX,11,Waterfall
+,4/2/1999,76,Male,Tea,Night Owl,NJ,4,,KS,6,Waterfall
+,10/2/2001,65,Female,Coffee,Night Owl,MI,6,,ND,12,Waterfall
+,1/24/1992,64,Female,Coffee,Night Owl,CT,10,,WY,16,Waterfall
+,1/29/1987,64,Female,Coffee,Night Owl,CA,20,,CA,20,Waterfall
+,4/20/2004,60,Female,Tea,Night Owl,TN,4,,MN,7,Waterfall
+,9/25/1992,74,Male,Neither,Early Bird,MN,14,,OK,16,Waterfall
+,1/11/2002,61,Female,Tea,Early Bird,CO,3,,MS,4,Waterfall
+,12/29/1976,76,Male,Tea,Early Bird,NY,16,,ME,21,Waterfall
+,5/18/2000,78,Male,Tea,Night Owl,MI,16,,MI,16,Fountain
+,11/21/1997,77,Male,Coffee,Night Owl,AZ,24,,AZ,24,Waterfall
+,3/16/1998,60,Female,Tea,Night Owl,NE,6,,NC,15,Waterfall
+,2/23/2006,75,Male,Coffee,Night Owl,FL,12,,FL,12,Airsip
+,9/14/2000,79,Male,Tea,Early Bird,NC,20,,NC,20,Waterfall
+,1/16/1989,69,Male,Neither,Early Bird,MS,11,,NY,16,Airsip
+,1/2/1975,62,Female,Coffee,Night Owl,MS,8,,HI,24,Waterfall
+,8/31/1999,59,Female,Neither,Night Owl,KY,8,,SD,15,Waterfall
+,1/31/1976,69,Male,Coffee,Night Owl,TN,10,,TN,10,Waterfall
+,6/21/1991,64,Female,Tea,Night Owl,IL,7,,IL,7,Waterfall
+,10/14/1999,62,Female,Coffee,Night Owl,NV,9,,MS,13,Waterfall
+,12/14/1984,75,Male,Coffee,Early Bird,OK,25,,OK,25,Waterfall
+,5/18/2005,60,Female,Coffee,Night Owl,OK,16,,OK,16,Waterfall
+,4/30/2001,59,Female,Neither,Night Owl,KY,2,,KY,2,Waterfall
+,2/15/2004,79,Male,Coffee,Night Owl,NH,4,,KY,7,Waterfall
+,1/28/2002,79,Male,Neither,Night Owl,CT,1,,WA,12,Airdrink
+,6/10/1977,60,Female,Neither,Night Owl,MD,8,,AZ,21,Waterfall
+,10/18/1996,63,Female,Tea,Night Owl,MA,12,,MA,12,Airsip
+,3/21/1989,65,Female,Coffee,Night Owl,IN,18,,IN,18,Waterfall
+,7/15/2001,61,Female,Coffee,Night Owl,OK,4,,OK,4,Waterfall
+,11/27/1984,59,Female,Coffee,Early Bird,MS,32,,MS,32,Waterfall
+,4/5/1978,65,Female,Tea,Night Owl,OH,44,,OH,44,Waterfall
+,7/18/2006,79,Male,Coffee,Early Bird,VA,3,,SD,8,Waterfall
+,1/24/1981,74,Male,Coffee,Night Owl,AR,24,,AR,24,Waterfall
+,2/27/1997,63,Female,Tea,Early Bird,MT,1,,MT,1,Waterfall
+,1/30/2002,78,Male,Tea,Early Bird,HI,10,,HI,10,Waterfall
+,2/9/1991,74,Male,Neither,Night Owl,CO,15,,CO,15,Waterfall
+,3/14/1998,74,Male,Tea,Early Bird,WA,8,,NC,16,Waterfall
+,9/17/2004,76,Male,Neither,Night Owl,MO,9,,IA,9,No term for this
+,10/16/2000,62,Female,Neither,Night Owl,GA,12,,GA,12,Waterfall
+,11/12/1983,66,Female,Tea,Night Owl,KY,23,,KY,23,Waterfall
+,6/30/1999,60,Female,Tea,Night Owl,IL,19,,IL,19,Waterfall
+,3/3/2004,60,Female,Coffee,Night Owl,MO,17,,MO,17,Waterfall
+,7/25/2004,66,Female,Tea,Night Owl,AL,9,,AL,9,Waterfall
+,3/1/1989,73,Male,Coffee,Early Bird,MS,26,,MS,26,Waterfall
+,11/6/2004,59,Female,Coffee,Night Owl,SC,13,,SC,13,Waterfall
+,12/12/1999,65,Female,Coffee,Night Owl,CT,3,,VT,5,Waterfall
+,5/8/2002,65,Female,Coffee,Early Bird,NC,4,,NC,4,Waterfall
+,9/10/2004,65,Female,Coffee,Early Bird,IN,17,,IN,17,Waterfall
+,1/17/2002,78,Male,Coffee,Night Owl,UT,10,,NY,10,Waterfall
+,8/22/2000,61,Female,Coffee,Night Owl,NH,19,,NH,19,Waterfall
+,6/30/1995,75,Male,Coffee,Night Owl,NC,7,,NC,7,Waterfall
+,10/27/1999,71,Male,Coffee,Night Owl,MS,9,,SD,10,Waterfall
+,5/21/1999,78,Male,Neither,Early Bird,NJ,2,,HI,17,Waterfall
+,3/12/2000,78,Male,Coffee,Night Owl,KS,10,,KS,10,Waterfall
+,10/22/1976,71,Male,Neither,Night Owl,NC,6,,OR,27,Waterfall
+,6/3/2003,72,Male,Tea,Night Owl,NM,12,,NM,12,Waterfall
+,9/26/1997,72,Male,Coffee,Night Owl,ND,4,,PA,4,Pop
+,12/2/1987,63,Female,Coffee,Night Owl,WY,16,,WY,16,Waterfall
+,4/27/2004,76,Male,Coffee,Night Owl,AZ,5,,VT,6,Waterfall
+,2/28/2001,73,Male,Coffee,Night Owl,KY,20,,KY,20,Waterfall
+,10/6/2000,66,Female,Coffee,Night Owl,MT,14,,MT,14,Waterfall
+,7/31/1997,63,Female,Coffee,Early Bird,CT,7,,CT,7,Waterfall
+,8/22/2002,64,Female,Coffee,Night Owl,AL,10,,AL,10,Waterfall
+,3/4/1989,70,Male,Tea,Night Owl,PA,8,,PA,8,Waterfall
+,3/13/1982,64,Female,Coffee,Night Owl,ME,20,,CA,20,Birdie
+,10/23/1998,62,Female,Coffee,Night Owl,NH,8,,NH,8,Waterfall
+,5/1/1998,77,Male,Coffee,Night Owl,WI,5,,ME,10,Waterfall
+,4/20/2002,72,Male,Tea,Night Owl,NJ,5,,MN,12,Waterfall
+,10/1/1999,63,Female,Coffee,Early Bird,DC,11,,CA,12,Birdie
+,11/17/1977,78,Male,Tea,Night Owl,OK,15,,OK,15,Waterfall
+,11/30/2003,64,Female,Tea,Night Owl,IA,5,,MN,6,Waterfall
+,6/13/1998,71,Male,Coffee,Night Owl,AL,15,,AL,15,Waterfall
+,6/5/1998,72,Male,Tea,Night Owl,PA,11,,IA,13,No term for this
+,10/7/1977,62,Female,Neither,Night Owl,CT,2,,CT,2,Waterfall
+,10/4/2000,77,Male,Coffee,Early Bird,AZ,17,,AZ,17,Waterfall
+,11/29/2003,78,Male,Neither,Early Bird,TN,10,,TN,10,Waterfall
+,1/12/1994,64,Female,Neither,Night Owl,IN,10,,CT,11,Waterfall
+,2/21/1998,73,Male,Tea,Early Bird,NV,6,,KY,11,Waterfall
+,10/15/1997,63,Female,Coffee,Night Owl,DE,12,,RI,13,Waterfall
+,8/2/2002,73,Male,Coffee,Night Owl,MD,16,,MD,16,Airsip
+,11/13/1975,62,Female,Neither,Night Owl,HI,5,,OK,9,Waterfall
+,1/25/1985,63,Female,Neither,Night Owl,TX,15,,TX,15,Waterfall
+,2/14/2001,63,Female,Coffee,Night Owl,SC,5,,MA,11,Sky
+,10/14/2002,78,Male,Coffee,Early Bird,NV,13,,NV,13,Waterfall
+,9/5/1994,66,Female,Coffee,Night Owl,MT,7,,NH,21,Waterfall
+,3/15/2001,65,Female,Tea,Early Bird,DE,9,,NV,12,Waterfall
+,6/21/2001,61,Female,Tea,Night Owl,OH,2,,VA,9,Waterfall
+,12/20/1998,69,Male,Coffee,Night Owl,MS,14,,MS,14,Waterfall
+,10/20/2003,59,Female,Coffee,Night Owl,OR,2,,IN,3,Waterfall
+,2/5/2006,79,Male,Coffee,Night Owl,WA,8,,WA,8,Airdrink
+,5/4/1998,64,Female,Coffee,Early Bird,MS,1,,MS,1,Waterfall
+,8/22/1998,62,Female,Coffee,Early Bird,OH,10,,WV,12,Waterfall
+,3/28/2000,62,Female,Tea,Night Owl,NE,3,,IL,8,Waterfall
+,1/12/1987,66,Female,Tea,Early Bird,VT,9,,NY,19,Airsip
+,11/16/2003,64,Female,Tea,Early Bird,OH,7,,NH,12,Waterfall
+,5/2/2000,60,Female,Tea,Night Owl,TN,5,,CO,17,Waterfall
+,5/3/1977,73,Male,Coffee,Early Bird,OR,15,,OR,15,Waterfall
+,1/2/1975,64,Female,Coffee,Night Owl,HI,42,,HI,42,Waterfall
+,6/17/1998,71,Male,Tea,Night Owl,MO,2,,TX,16,Waterfall
+,6/14/1997,73,Male,Coffee,Early Bird,TX,2,,PA,12,Pop
+,10/16/2006,66,Female,Neither,Night Owl,IL,2,,IL,2,Waterfall
+,7/16/1986,76,Male,Coffee,Night Owl,WV,8,,WA,10,Airdrink
+,5/21/1986,73,Male,Neither,Night Owl,MA,4,,MA,4,Sky
+,10/9/1994,61,Female,Tea,Night Owl,KY,8,,OK,14,Waterfall
+,10/5/1993,70,Male,Coffee,Night Owl,OK,21,,OK,21,Waterfall
+,8/16/2000,76,Male,Coffee,Night Owl,IN,1,,MS,7,Waterfall
+,5/20/1996,70,Male,Tea,Night Owl,SD,10,,AZ,10,Waterfall
+,5/25/2003,73,Male,Coffee,Night Owl,WV,14,,WV,14,Waterfall
+,1/13/2003,60,Female,Coffee,Night Owl,FL,3,,NC,11,Waterfall
+,4/17/2006,61,Female,Tea,Night Owl,MD,12,,MD,12,Waterfall
+,5/21/2000,65,Female,Coffee,Night Owl,NY,3,,NY,3,Airsip
+,3/6/2003,71,Male,Coffee,Night Owl,LA,1,,DC,3,Waterfall
+,2/1/1979,70,Male,Tea,Early Bird,RI,3,,IL,32,Waterfall
+,6/20/1999,75,Male,Neither,Early Bird,MD,3,,MD,3,Airsip
+,5/23/2003,71,Male,Tea,Night Owl,PA,5,,PA,5,Pop
+,1/16/1983,76,Male,Coffee,Night Owl,DE,12,,DE,12,Waterfall
+,1/21/2006,79,Male,Tea,Night Owl,OH,5,,DC,9,Waterfall
+,10/29/1980,66,Female,Coffee,Early Bird,LA,20,,WY,21,Waterfall
+,8/26/1998,74,Male,Coffee,Night Owl,NC,8,,NC,8,Waterfall
+,12/26/1994,64,Female,Tea,Early Bird,IA,11,,IA,11,No term for this
+,12/31/1988,62,Female,Tea,Night Owl,VA,7,,VA,7,Waterfall
+,8/18/1986,71,Male,Tea,Night Owl,LA,17,,LA,17,Waterfall
+,10/8/1978,59,Female,Neither,Night Owl,DE,22,,NM,22,Waterfall
+,2/17/1996,65,Female,Coffee,Night Owl,ID,25,,ID,25,No term for this
+,1/2/1994,66,Female,Tea,Night Owl,VT,2,,IA,15,Waterfall
+,3/14/1999,65,Female,Neither,Night Owl,UT,8,,TN,15,Waterfall
+,7/7/2001,60,Female,Tea,Night Owl,AZ,3,,AZ,3,Waterfall
+,1/17/2003,59,Female,Neither,Early Bird,ME,9,,IA,10,No term for this
+,6/17/2002,75,Male,Neither,Night Owl,GA,10,,HI,10,Waterfall
+,9/12/2002,71,Male,Neither,Night Owl,WY,3,,WV,11,Waterfall
+,4/19/2000,60,Female,Tea,Night Owl,KS,2,,KS,2,Waterfall
+,12/5/1999,60,Female,Tea,Night Owl,NJ,2,,WI,10,Waterfall
+,9/1/2004,63,Female,Tea,Night Owl,KS,5,,CA,5,Birdie
+,7/26/1991,60,Female,Tea,Early Bird,WA,6,,UT,25,Waterfall
+,9/7/1988,71,Male,Tea,Night Owl,TX,19,,TX,19,Waterfall
+,1/4/1990,71,Male,Tea,Early Bird,ND,2,,DE,15,Waterfall
